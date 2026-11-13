@@ -1,0 +1,1201 @@
+locality,business_category,population_density,competitor_count,existing_business_count,avg_monthly_rent,distance_main_road_km,transport_access_score,income_index,footfall_index,market_potential_score,potential_category,data_source
+Koramangala,Cafe / Restaurant,19795,15,116,88820,0.86,94,99,43,65.52,Medium,Synthetic
+Koramangala,Cafe / Restaurant,6433,64,197,95104,1.59,41,73,78,40.2,Low,Synthetic
+Koramangala,Cafe / Restaurant,22942,42,229,14747,1.9,81,86,66,68.26,Medium,Synthetic
+Koramangala,Cafe / Restaurant,5267,64,140,81092,3.08,40,97,58,42.86,Low,Synthetic
+Koramangala,Cafe / Restaurant,14627,60,23,85969,1.99,72,26,79,42.61,Low,Synthetic
+Koramangala,Cafe / Restaurant,16206,35,215,47920,1.37,23,26,25,46.37,Medium,Synthetic
+Koramangala,Cafe / Restaurant,14805,4,63,21692,4.85,63,58,93,65.93,Medium,Synthetic
+Koramangala,Cafe / Restaurant,15534,72,215,13016,4.81,99,77,43,57.18,Medium,Synthetic
+Koramangala,Cafe / Restaurant,16185,60,133,50044,4.03,84,95,28,47.65,Medium,Synthetic
+Koramangala,Cafe / Restaurant,19422,11,90,45159,3.67,52,29,60,61.57,Medium,Synthetic
+Koramangala,Cafe / Restaurant,23483,7,210,42535,2.3,52,72,42,76.17,High,Synthetic
+Koramangala,Cafe / Restaurant,23115,35,202,20110,3.59,20,29,33,61.29,Medium,Synthetic
+Koramangala,Cafe / Restaurant,24872,79,24,99897,0.22,96,75,82,54.85,Medium,Synthetic
+Koramangala,Cafe / Restaurant,16383,4,231,92356,1.32,34,67,48,63.53,Medium,Synthetic
+Koramangala,Cafe / Restaurant,5059,13,169,93734,1.52,47,90,61,53.49,Medium,Synthetic
+Koramangala,Cafe / Restaurant,6693,28,37,81163,2.14,81,99,81,57.97,Medium,Synthetic
+Koramangala,Cafe / Restaurant,5306,62,130,67016,1.59,89,96,46,40.2,Low,Synthetic
+Koramangala,Cafe / Restaurant,17545,44,161,46766,0.92,51,76,81,61.04,Medium,Synthetic
+Koramangala,Cafe / Restaurant,17808,58,61,95211,1.33,21,27,75,41.42,Low,Synthetic
+Koramangala,Cafe / Restaurant,8737,54,96,50623,4.55,38,26,72,35.31,Low,Synthetic
+Koramangala,Cafe / Restaurant,22091,32,207,99455,3.0,74,99,75,65.39,Medium,Synthetic
+Koramangala,Cafe / Restaurant,6327,69,125,77733,2.05,35,97,78,36.61,Low,Synthetic
+Koramangala,Cafe / Restaurant,15589,3,157,14811,3.42,38,91,38,64.11,Medium,Synthetic
+Koramangala,Cafe / Restaurant,12680,33,177,83295,2.64,20,35,76,44.34,Low,Synthetic
+Koramangala,Cafe / Restaurant,10616,50,160,33918,4.4,26,40,79,44.72,Low,Synthetic
+Koramangala,Retail Shop,11158,9,242,54642,3.66,22,44,43,53.52,Medium,Synthetic
+Koramangala,Retail Shop,16183,75,122,44711,3.95,44,42,85,48.0,Medium,Synthetic
+Koramangala,Retail Shop,17992,33,77,35328,2.52,67,44,27,61.02,Medium,Synthetic
+Koramangala,Retail Shop,17446,67,154,82271,2.88,95,83,41,52.23,Medium,Synthetic
+Koramangala,Retail Shop,23738,27,235,60404,2.56,47,88,88,68.58,Medium,Synthetic
+Koramangala,Retail Shop,11996,48,156,68835,0.22,68,41,63,50.87,Medium,Synthetic
+Koramangala,Retail Shop,5060,24,102,12301,4.84,79,87,51,57.7,Medium,Synthetic
+Koramangala,Retail Shop,10102,33,76,38641,2.83,73,82,86,55.02,Medium,Synthetic
+Koramangala,Retail Shop,11455,47,95,30070,0.79,46,26,36,49.27,Medium,Synthetic
+Koramangala,Retail Shop,12096,9,52,90069,1.86,61,50,69,55.89,Medium,Synthetic
+Koramangala,Retail Shop,8780,20,74,89575,3.54,35,38,95,59.86,Medium,Synthetic
+Koramangala,Retail Shop,17403,66,41,22966,3.39,70,49,77,45.07,Medium,Synthetic
+Koramangala,Retail Shop,13907,42,79,65006,1.86,79,32,72,53.07,Medium,Synthetic
+Koramangala,Retail Shop,7051,5,112,99235,4.23,66,79,59,40.22,Low,Synthetic
+Koramangala,Retail Shop,12311,63,28,40251,3.75,81,47,28,42.15,Low,Synthetic
+Koramangala,Retail Shop,5931,1,67,28896,2.27,67,25,35,62.79,Medium,Synthetic
+Koramangala,Retail Shop,20964,22,102,71638,0.33,45,40,70,62.84,Medium,Synthetic
+Koramangala,Retail Shop,17284,57,38,73389,0.55,66,86,88,53.09,Medium,Synthetic
+Koramangala,Retail Shop,6479,39,109,74752,2.38,42,34,88,42.48,Low,Synthetic
+Koramangala,Retail Shop,6849,52,232,77417,3.17,77,25,88,46.73,Medium,Synthetic
+Koramangala,Retail Shop,9878,2,229,72890,4.02,31,74,54,59.68,Medium,Synthetic
+Koramangala,Retail Shop,6427,33,170,82588,2.77,31,91,84,48.73,Medium,Synthetic
+Koramangala,Retail Shop,20281,74,99,88797,4.09,26,92,77,39.89,Low,Synthetic
+Koramangala,Retail Shop,9745,75,166,19543,3.7,40,60,29,46.35,Medium,Synthetic
+Koramangala,Retail Shop,23170,49,108,97999,0.73,43,47,81,46.48,Medium,Synthetic
+Koramangala,Gym / Fitness Center,16043,55,22,55286,3.8,49,41,81,35.56,Low,Synthetic
+Koramangala,Gym / Fitness Center,24876,59,28,59280,0.36,80,43,95,62.12,Medium,Synthetic
+Koramangala,Gym / Fitness Center,8360,71,37,94637,3.42,71,40,88,29.27,Low,Synthetic
+Koramangala,Gym / Fitness Center,15130,53,160,78703,3.97,72,66,77,43.59,Low,Synthetic
+Koramangala,Gym / Fitness Center,15174,14,232,21348,3.71,94,42,95,73.78,High,Synthetic
+Koramangala,Gym / Fitness Center,11056,7,183,58732,1.19,28,74,46,60.9,Medium,Synthetic
+Koramangala,Gym / Fitness Center,23065,66,14,66693,4.93,84,41,90,45.63,Medium,Synthetic
+Koramangala,Gym / Fitness Center,10588,54,176,37289,4.54,58,91,64,48.89,Medium,Synthetic
+Koramangala,Gym / Fitness Center,8748,58,157,67771,3.86,58,25,22,34.97,Low,Synthetic
+Koramangala,Gym / Fitness Center,5214,25,65,94848,1.2,25,82,63,44.62,Low,Synthetic
+Koramangala,Gym / Fitness Center,16972,32,182,46620,1.68,99,99,55,70.54,High,Synthetic
+Koramangala,Gym / Fitness Center,19761,47,242,64528,3.51,50,25,73,51.83,Medium,Synthetic
+Koramangala,Gym / Fitness Center,12053,3,153,53430,0.32,31,98,35,63.77,Medium,Synthetic
+Koramangala,Gym / Fitness Center,4667,8,131,58427,3.27,27,82,79,56.36,Medium,Synthetic
+Koramangala,Gym / Fitness Center,4539,41,237,32159,2.32,82,41,92,58.55,Medium,Synthetic
+Koramangala,Gym / Fitness Center,6779,29,150,46349,0.47,25,93,66,53.95,Medium,Synthetic
+Koramangala,Gym / Fitness Center,14136,66,19,96791,4.4,24,57,84,34.48,Low,Synthetic
+Koramangala,Gym / Fitness Center,8158,59,36,98704,4.21,20,45,74,27.9,Low,Synthetic
+Koramangala,Gym / Fitness Center,16763,69,104,21860,4.98,72,47,72,47.48,Medium,Synthetic
+Koramangala,Gym / Fitness Center,9997,1,60,65932,3.07,81,89,51,53.17,Medium,Synthetic
+Koramangala,Gym / Fitness Center,7419,72,48,26489,2.54,73,27,69,42.11,Low,Synthetic
+Koramangala,Gym / Fitness Center,12580,57,154,65871,2.45,42,38,85,49.88,Medium,Synthetic
+Koramangala,Gym / Fitness Center,24914,38,201,90587,4.9,69,54,98,61.27,Medium,Synthetic
+Koramangala,Gym / Fitness Center,21715,38,234,54318,2.04,70,29,48,59.03,Medium,Synthetic
+Koramangala,Gym / Fitness Center,11043,10,193,97392,2.51,88,58,25,44.0,Low,Synthetic
+Koramangala,Pharmacy,7818,43,249,57002,0.47,42,79,99,57.2,Medium,Synthetic
+Koramangala,Pharmacy,10238,75,127,34415,3.24,23,80,44,39.49,Low,Synthetic
+Koramangala,Pharmacy,8188,32,187,40732,1.04,38,45,24,53.25,Medium,Synthetic
+Koramangala,Pharmacy,16891,42,70,35061,0.53,20,29,31,48.5,Medium,Synthetic
+Koramangala,Pharmacy,18124,27,82,35321,4.02,75,87,67,58.68,Medium,Synthetic
+Koramangala,Pharmacy,24028,26,45,91104,0.51,71,71,75,74.64,High,Synthetic
+Koramangala,Pharmacy,12150,78,225,28748,0.41,78,80,26,51.35,Medium,Synthetic
+Koramangala,Pharmacy,9122,23,247,67658,2.71,37,62,34,50.02,Medium,Synthetic
+Koramangala,Pharmacy,14267,74,48,62448,1.14,63,49,36,39.76,Low,Synthetic
+Koramangala,Pharmacy,7596,25,77,19561,3.97,37,58,27,53.25,Medium,Synthetic
+Koramangala,Pharmacy,19913,41,110,74981,4.51,83,83,75,64.23,Medium,Synthetic
+Koramangala,Pharmacy,14554,70,238,40024,1.26,41,45,89,51.66,Medium,Synthetic
+Koramangala,Pharmacy,15613,75,199,88125,0.95,74,33,22,31.09,Low,Synthetic
+Koramangala,Pharmacy,6590,40,238,88323,4.99,25,90,94,43.33,Low,Synthetic
+Koramangala,Pharmacy,17917,51,71,65441,2.83,27,50,70,47.97,Medium,Synthetic
+Koramangala,Pharmacy,10469,26,127,76323,2.18,39,36,66,51.3,Medium,Synthetic
+Koramangala,Pharmacy,13765,37,135,32618,4.67,96,27,52,55.39,Medium,Synthetic
+Koramangala,Pharmacy,16977,10,14,99958,2.79,21,37,59,44.72,Low,Synthetic
+Koramangala,Pharmacy,14568,17,18,91767,3.07,54,73,88,56.99,Medium,Synthetic
+Koramangala,Pharmacy,16219,50,87,79444,3.68,28,58,95,48.37,Medium,Synthetic
+Koramangala,Pharmacy,7391,22,69,17951,3.93,30,38,79,49.8,Medium,Synthetic
+Koramangala,Pharmacy,19524,5,92,35930,3.21,81,28,61,70.71,High,Synthetic
+Koramangala,Pharmacy,13510,14,41,23954,3.16,42,87,34,57.44,Medium,Synthetic
+Koramangala,Pharmacy,13184,25,154,46016,2.02,85,77,70,54.99,Medium,Synthetic
+Koramangala,Pharmacy,21586,72,51,99487,0.92,48,57,46,49.03,Medium,Synthetic
+Koramangala,Salon / Beauty Center,4419,29,47,78656,3.56,46,79,52,40.99,Low,Synthetic
+Koramangala,Salon / Beauty Center,8612,74,106,58197,4.12,50,71,71,35.55,Low,Synthetic
+Koramangala,Salon / Beauty Center,11863,15,166,32103,0.83,66,92,95,77.66,High,Synthetic
+Koramangala,Salon / Beauty Center,4793,43,36,83315,0.99,93,62,25,50.01,Medium,Synthetic
+Koramangala,Salon / Beauty Center,16999,23,56,88077,3.11,32,86,79,50.33,Medium,Synthetic
+Koramangala,Salon / Beauty Center,19343,68,142,72279,0.21,50,33,70,50.79,Medium,Synthetic
+Koramangala,Salon / Beauty Center,11196,78,49,80904,4.64,42,25,65,24.51,Low,Synthetic
+Koramangala,Salon / Beauty Center,18755,54,224,31256,1.73,73,79,59,61.47,Medium,Synthetic
+Koramangala,Salon / Beauty Center,6708,47,210,87060,1.74,71,81,45,41.58,Low,Synthetic
+Koramangala,Salon / Beauty Center,20920,75,47,20577,2.38,53,41,62,44.67,Low,Synthetic
+Koramangala,Salon / Beauty Center,13146,51,191,79526,0.91,52,73,48,57.16,Medium,Synthetic
+Koramangala,Salon / Beauty Center,14395,49,208,82480,4.81,68,44,82,50.0,Medium,Synthetic
+Koramangala,Salon / Beauty Center,13916,49,80,87520,1.62,70,80,81,49.53,Medium,Synthetic
+Koramangala,Salon / Beauty Center,24908,30,153,30449,1.54,66,90,57,71.4,High,Synthetic
+Koramangala,Salon / Beauty Center,23719,29,64,52806,3.79,29,98,53,58.6,Medium,Synthetic
+Koramangala,Salon / Beauty Center,11643,32,187,97382,3.33,84,81,86,53.2,Medium,Synthetic
+Koramangala,Salon / Beauty Center,18295,59,81,68373,1.76,86,75,27,50.18,Medium,Synthetic
+Koramangala,Salon / Beauty Center,13503,46,244,24175,2.05,56,78,33,56.22,Medium,Synthetic
+Koramangala,Salon / Beauty Center,19070,55,185,59057,0.16,26,57,42,54.45,Medium,Synthetic
+Koramangala,Salon / Beauty Center,24561,2,138,35236,1.77,21,91,31,75.32,High,Synthetic
+Koramangala,Salon / Beauty Center,21939,5,46,90757,3.89,28,77,63,55.78,Medium,Synthetic
+Koramangala,Salon / Beauty Center,19517,59,247,98143,0.99,100,38,28,51.35,Medium,Synthetic
+Koramangala,Salon / Beauty Center,6599,66,246,72774,1.17,41,28,45,31.41,Low,Synthetic
+Koramangala,Salon / Beauty Center,12996,75,79,73268,4.09,60,62,53,36.69,Low,Synthetic
+Koramangala,Salon / Beauty Center,11184,37,162,90411,1.11,46,81,50,50.51,Medium,Synthetic
+Koramangala,Electronics Store,18060,53,208,71052,4.21,81,70,83,58.2,Medium,Synthetic
+Koramangala,Electronics Store,24609,54,116,73120,0.51,55,50,48,50.3,Medium,Synthetic
+Koramangala,Electronics Store,10819,59,48,40769,2.04,43,46,88,43.82,Low,Synthetic
+Koramangala,Electronics Store,11715,20,220,79298,4.22,100,86,92,59.37,Medium,Synthetic
+Koramangala,Electronics Store,19048,40,26,66912,2.53,62,66,44,53.44,Medium,Synthetic
+Koramangala,Electronics Store,17350,35,140,40145,4.02,63,75,31,52.44,Medium,Synthetic
+Koramangala,Electronics Store,8090,49,198,33520,4.76,74,71,31,44.9,Low,Synthetic
+Koramangala,Electronics Store,5341,8,232,63860,3.82,99,94,91,62.34,Medium,Synthetic
+Koramangala,Electronics Store,15918,59,163,39935,3.56,90,41,42,43.41,Low,Synthetic
+Koramangala,Electronics Store,23541,7,23,49198,3.52,28,72,91,71.24,High,Synthetic
+Koramangala,Electronics Store,23426,18,196,78150,0.28,50,48,79,67.74,Medium,Synthetic
+Koramangala,Electronics Store,17409,3,46,14983,2.26,58,39,23,61.24,Medium,Synthetic
+Koramangala,Electronics Store,19520,16,246,91273,4.4,85,79,61,65.26,Medium,Synthetic
+Koramangala,Electronics Store,4545,30,22,39788,1.98,58,70,48,46.81,Medium,Synthetic
+Koramangala,Electronics Store,12436,57,25,97431,1.43,29,54,44,41.79,Low,Synthetic
+Koramangala,Electronics Store,7430,5,74,44733,0.12,64,38,49,60.7,Medium,Synthetic
+Koramangala,Electronics Store,24772,25,185,47400,0.64,87,36,78,76.4,High,Synthetic
+Koramangala,Electronics Store,14233,37,70,57028,0.54,89,63,75,62.11,Medium,Synthetic
+Koramangala,Electronics Store,5868,25,208,92435,0.42,91,44,82,57.9,Medium,Synthetic
+Koramangala,Electronics Store,9429,74,116,73665,1.98,60,27,25,34.37,Low,Synthetic
+Koramangala,Electronics Store,4726,49,18,88898,3.03,80,59,69,42.79,Low,Synthetic
+Koramangala,Electronics Store,18551,3,169,19906,1.2,92,92,33,77.66,High,Synthetic
+Koramangala,Electronics Store,17239,67,132,77160,0.32,95,66,28,55.48,Medium,Synthetic
+Koramangala,Electronics Store,17774,40,34,76772,3.7,98,62,91,54.72,Medium,Synthetic
+Koramangala,Electronics Store,13105,70,46,21903,3.45,88,64,64,50.35,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,18559,62,102,96082,4.14,75,64,59,36.42,Low,Synthetic
+Indiranagar,Cafe / Restaurant,24695,19,89,31623,1.3,78,83,67,78.17,High,Synthetic
+Indiranagar,Cafe / Restaurant,22088,13,116,63756,3.52,61,87,46,61.17,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,20106,45,67,80344,0.24,42,66,29,53.64,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,6719,53,167,54534,0.89,21,36,58,44.11,Low,Synthetic
+Indiranagar,Cafe / Restaurant,11009,60,201,43575,4.11,89,54,90,43.18,Low,Synthetic
+Indiranagar,Cafe / Restaurant,13439,63,165,38660,0.6,87,44,87,61.7,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,12073,65,31,32953,0.47,69,38,83,47.41,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,21070,29,213,89475,3.27,71,100,26,62.45,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,15801,46,235,26288,0.6,58,39,48,57.65,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,14396,75,125,62975,0.5,97,46,94,51.99,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,24500,47,217,40602,4.83,38,81,88,56.81,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,9626,1,67,31982,3.75,54,88,44,61.38,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,22639,27,81,33563,1.01,36,77,27,71.03,High,Synthetic
+Indiranagar,Cafe / Restaurant,12782,27,183,97553,3.83,22,88,63,51.57,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,7224,78,208,23536,3.08,28,62,67,42.92,Low,Synthetic
+Indiranagar,Cafe / Restaurant,13208,60,72,17109,1.7,21,96,30,57.98,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,21773,38,41,18154,3.51,52,65,27,56.15,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,21162,51,97,87304,1.29,65,56,98,66.26,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,20019,33,211,86663,0.15,21,57,96,60.26,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,22333,33,86,68985,2.04,85,62,65,66.03,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,4105,44,58,63047,3.22,86,30,28,38.71,Low,Synthetic
+Indiranagar,Cafe / Restaurant,10917,73,112,38015,1.56,95,32,91,53.67,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,17629,7,212,58163,2.81,25,82,41,63.84,Medium,Synthetic
+Indiranagar,Cafe / Restaurant,12601,3,136,33288,0.9,33,99,31,63.15,Medium,Synthetic
+Indiranagar,Retail Shop,17612,19,64,64579,3.75,72,79,51,55.99,Medium,Synthetic
+Indiranagar,Retail Shop,20690,44,91,87717,3.62,41,61,75,49.23,Medium,Synthetic
+Indiranagar,Retail Shop,18025,35,198,28309,0.25,26,100,68,68.93,Medium,Synthetic
+Indiranagar,Retail Shop,11005,31,195,12956,4.25,56,28,39,63.61,Medium,Synthetic
+Indiranagar,Retail Shop,19282,36,126,43585,2.48,85,58,55,62.89,Medium,Synthetic
+Indiranagar,Retail Shop,16582,42,124,57241,4.57,31,27,37,47.02,Medium,Synthetic
+Indiranagar,Retail Shop,23975,42,181,78061,4.86,56,93,57,58.9,Medium,Synthetic
+Indiranagar,Retail Shop,8648,62,69,82135,2.94,21,94,36,35.78,Low,Synthetic
+Indiranagar,Retail Shop,6113,35,238,25760,3.89,75,60,64,53.16,Medium,Synthetic
+Indiranagar,Retail Shop,7374,31,148,64233,0.46,33,98,29,47.39,Medium,Synthetic
+Indiranagar,Retail Shop,10276,20,17,91530,4.75,76,88,47,47.57,Medium,Synthetic
+Indiranagar,Retail Shop,23576,37,184,83652,2.71,68,68,75,64.81,Medium,Synthetic
+Indiranagar,Retail Shop,4619,61,157,32337,4.93,92,61,39,41.54,Low,Synthetic
+Indiranagar,Retail Shop,4281,29,10,51030,1.2,78,93,52,50.62,Medium,Synthetic
+Indiranagar,Retail Shop,24969,20,190,47057,4.83,62,74,48,64.71,Medium,Synthetic
+Indiranagar,Retail Shop,19398,56,248,18570,2.5,63,62,42,55.91,Medium,Synthetic
+Indiranagar,Retail Shop,8470,8,94,35196,2.27,24,71,53,58.53,Medium,Synthetic
+Indiranagar,Retail Shop,19552,55,128,27577,1.93,49,41,45,55.1,Medium,Synthetic
+Indiranagar,Retail Shop,21370,72,98,66061,4.6,20,43,50,41.99,Low,Synthetic
+Indiranagar,Retail Shop,18287,14,62,54287,3.29,81,90,83,71.25,High,Synthetic
+Indiranagar,Retail Shop,24212,77,168,78024,0.63,23,43,89,49.39,Medium,Synthetic
+Indiranagar,Retail Shop,7553,13,242,37426,4.36,20,78,90,51.3,Medium,Synthetic
+Indiranagar,Retail Shop,13108,19,69,43324,2.3,68,59,63,52.72,Medium,Synthetic
+Indiranagar,Retail Shop,18437,11,108,88743,3.37,93,90,65,75.71,High,Synthetic
+Indiranagar,Retail Shop,10471,48,203,43348,4.09,44,36,24,40.79,Low,Synthetic
+Indiranagar,Gym / Fitness Center,20353,48,46,39598,2.71,34,67,67,61.47,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,17178,43,246,36596,1.06,99,71,34,66.22,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,12906,51,24,57379,4.68,38,58,97,37.08,Low,Synthetic
+Indiranagar,Gym / Fitness Center,7610,29,248,25467,2.74,35,60,49,52.86,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,13873,2,186,55596,2.13,94,31,93,65.54,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,22743,42,198,18441,4.6,87,31,73,65.08,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,13600,44,129,54668,3.2,32,46,40,42.99,Low,Synthetic
+Indiranagar,Gym / Fitness Center,8616,15,19,88153,1.87,61,96,43,52.55,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,21456,26,100,46084,1.58,43,43,79,67.44,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,9010,36,211,80576,2.18,88,71,68,55.32,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,20866,33,128,92532,0.57,67,61,34,53.7,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,13160,78,86,69784,2.53,21,88,54,35.49,Low,Synthetic
+Indiranagar,Gym / Fitness Center,8358,18,76,44117,2.28,60,99,43,59.31,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,10764,36,241,85379,1.04,27,94,60,58.53,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,21091,13,58,76315,0.43,24,68,46,55.16,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,5735,50,76,57113,1.73,89,26,63,47.14,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,23201,35,107,21686,2.38,27,46,63,67.03,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,4207,62,167,80619,1.8,31,32,22,31.44,Low,Synthetic
+Indiranagar,Gym / Fitness Center,5679,30,246,84982,2.06,24,89,49,55.02,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,8895,33,25,22699,3.93,33,60,42,47.62,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,22792,2,228,59864,2.81,94,91,71,78.13,High,Synthetic
+Indiranagar,Gym / Fitness Center,8406,6,172,77450,2.92,79,36,68,53.47,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,16329,38,91,99468,1.97,49,30,86,44.77,Low,Synthetic
+Indiranagar,Gym / Fitness Center,12264,15,158,36226,0.95,21,59,97,67.78,Medium,Synthetic
+Indiranagar,Gym / Fitness Center,9907,10,34,86520,2.45,52,60,33,45.09,Medium,Synthetic
+Indiranagar,Pharmacy,6530,41,143,62200,3.36,27,45,87,45.9,Medium,Synthetic
+Indiranagar,Pharmacy,20920,79,77,52108,2.79,51,37,50,31.85,Low,Synthetic
+Indiranagar,Pharmacy,6494,6,169,30268,0.19,21,84,42,62.29,Medium,Synthetic
+Indiranagar,Pharmacy,10610,31,14,54913,2.35,21,35,69,45.63,Medium,Synthetic
+Indiranagar,Pharmacy,9078,9,108,73588,0.69,81,31,99,58.78,Medium,Synthetic
+Indiranagar,Pharmacy,12800,4,13,66823,4.09,71,76,55,45.6,Medium,Synthetic
+Indiranagar,Pharmacy,19422,63,71,63196,1.84,46,38,90,53.58,Medium,Synthetic
+Indiranagar,Pharmacy,13956,5,192,82017,0.76,40,45,29,51.68,Medium,Synthetic
+Indiranagar,Pharmacy,18828,53,91,59076,4.8,55,84,30,48.82,Medium,Synthetic
+Indiranagar,Pharmacy,8798,21,61,41300,2.49,87,58,71,60.66,Medium,Synthetic
+Indiranagar,Pharmacy,11394,52,166,31877,2.02,61,37,83,48.12,Medium,Synthetic
+Indiranagar,Pharmacy,4016,9,178,76641,2.24,48,34,77,52.09,Medium,Synthetic
+Indiranagar,Pharmacy,12906,34,17,40602,2.31,68,41,79,51.75,Medium,Synthetic
+Indiranagar,Pharmacy,24310,45,220,59684,3.71,84,32,96,66.05,Medium,Synthetic
+Indiranagar,Pharmacy,6711,17,142,28531,3.71,77,55,30,55.12,Medium,Synthetic
+Indiranagar,Pharmacy,8531,15,220,76027,1.84,77,29,24,54.53,Medium,Synthetic
+Indiranagar,Pharmacy,9439,10,47,40270,0.5,100,32,44,63.69,Medium,Synthetic
+Indiranagar,Pharmacy,6376,66,216,89360,1.35,87,65,81,43.34,Low,Synthetic
+Indiranagar,Pharmacy,24131,12,100,99527,0.66,32,77,51,65.05,Medium,Synthetic
+Indiranagar,Pharmacy,18686,16,41,72703,3.32,30,34,34,49.35,Medium,Synthetic
+Indiranagar,Pharmacy,16232,25,241,50714,2.8,41,54,63,54.81,Medium,Synthetic
+Indiranagar,Pharmacy,4685,21,236,42841,4.1,58,36,66,52.35,Medium,Synthetic
+Indiranagar,Pharmacy,19997,8,55,35911,2.83,42,99,41,63.19,Medium,Synthetic
+Indiranagar,Pharmacy,24714,22,101,60908,0.91,48,76,46,66.47,Medium,Synthetic
+Indiranagar,Pharmacy,17718,44,214,15754,3.82,75,27,82,62.27,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,22037,19,32,63612,0.56,44,32,77,61.56,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,15754,10,158,48735,4.09,46,90,60,58.22,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,6159,13,146,96899,0.13,77,78,31,49.62,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,23873,53,130,27379,1.7,89,80,77,72.29,High,Synthetic
+Indiranagar,Salon / Beauty Center,6179,4,29,30313,4.44,45,61,73,47.25,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,5080,45,29,71664,2.98,23,38,22,34.67,Low,Synthetic
+Indiranagar,Salon / Beauty Center,20087,58,64,18643,2.85,43,58,49,51.2,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,15154,49,72,17997,0.83,43,100,49,63.73,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,9093,31,109,22258,2.26,74,79,37,54.82,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,13518,75,66,45787,1.57,52,41,89,45.33,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,5283,20,249,95930,3.46,66,99,28,48.06,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,18082,77,116,18397,2.97,89,75,38,53.58,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,21833,35,55,82553,4.38,83,61,68,56.99,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,14595,70,99,31715,0.34,58,59,20,48.41,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,6839,57,109,54821,0.38,65,84,79,54.51,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,16835,30,161,86603,0.32,26,59,74,55.08,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,23675,14,129,62057,1.43,73,94,63,73.66,High,Synthetic
+Indiranagar,Salon / Beauty Center,6643,57,30,59299,1.64,26,94,34,38.73,Low,Synthetic
+Indiranagar,Salon / Beauty Center,18289,32,212,78707,0.73,67,95,40,61.61,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,17183,14,66,32644,4.91,88,27,56,55.83,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,22322,12,198,18304,0.84,87,95,52,77.74,High,Synthetic
+Indiranagar,Salon / Beauty Center,11521,28,195,30474,0.43,68,41,89,64.95,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,21901,70,107,81184,2.2,24,26,41,40.95,Low,Synthetic
+Indiranagar,Salon / Beauty Center,4097,16,121,90258,3.29,95,64,57,51.22,Medium,Synthetic
+Indiranagar,Salon / Beauty Center,8666,10,108,79263,3.99,68,88,51,48.96,Medium,Synthetic
+Indiranagar,Electronics Store,13283,15,129,22983,4.4,33,51,59,53.79,Medium,Synthetic
+Indiranagar,Electronics Store,22489,28,35,41118,2.81,22,96,63,61.53,Medium,Synthetic
+Indiranagar,Electronics Store,19795,23,98,63578,1.96,38,93,70,75.7,High,Synthetic
+Indiranagar,Electronics Store,6551,12,83,61159,1.51,60,60,91,55.32,Medium,Synthetic
+Indiranagar,Electronics Store,6285,42,69,41139,2.83,21,31,99,48.77,Medium,Synthetic
+Indiranagar,Electronics Store,10530,3,36,91473,0.93,52,25,27,48.83,Medium,Synthetic
+Indiranagar,Electronics Store,24074,4,231,23205,4.84,38,56,28,69.16,Medium,Synthetic
+Indiranagar,Electronics Store,19149,16,138,37150,2.48,40,54,32,61.97,Medium,Synthetic
+Indiranagar,Electronics Store,14592,68,34,36217,0.49,24,85,28,43.98,Low,Synthetic
+Indiranagar,Electronics Store,13587,50,143,42930,3.82,30,90,66,44.83,Low,Synthetic
+Indiranagar,Electronics Store,20087,3,85,24763,2.67,40,52,81,73.75,High,Synthetic
+Indiranagar,Electronics Store,22099,34,50,83986,2.31,77,99,76,70.18,High,Synthetic
+Indiranagar,Electronics Store,10416,69,117,30058,4.23,54,57,35,33.08,Low,Synthetic
+Indiranagar,Electronics Store,5089,40,165,79494,0.92,39,25,91,47.05,Medium,Synthetic
+Indiranagar,Electronics Store,18478,63,30,83906,3.84,72,70,33,39.85,Low,Synthetic
+Indiranagar,Electronics Store,20843,17,48,62939,3.36,25,47,78,56.01,Medium,Synthetic
+Indiranagar,Electronics Store,6597,14,109,98516,2.78,54,43,49,38.8,Low,Synthetic
+Indiranagar,Electronics Store,10142,78,93,20472,2.17,33,50,41,38.24,Low,Synthetic
+Indiranagar,Electronics Store,19282,3,179,33778,4.04,64,95,97,77.8,High,Synthetic
+Indiranagar,Electronics Store,11230,73,133,91222,2.71,38,71,33,31.57,Low,Synthetic
+Indiranagar,Electronics Store,23107,40,218,61437,0.33,52,76,33,62.17,Medium,Synthetic
+Indiranagar,Electronics Store,22146,59,87,83363,0.42,27,26,60,52.04,Medium,Synthetic
+Indiranagar,Electronics Store,22863,30,21,66306,1.41,69,45,88,63.34,Medium,Synthetic
+Indiranagar,Electronics Store,17615,20,110,54946,2.49,92,85,28,66.71,Medium,Synthetic
+Indiranagar,Electronics Store,21111,65,17,44174,0.5,73,100,65,63.41,Medium,Synthetic
+Whitefield,Cafe / Restaurant,20910,19,35,94325,3.07,70,62,39,55.83,Medium,Synthetic
+Whitefield,Cafe / Restaurant,22230,71,101,43259,1.25,95,69,86,66.73,Medium,Synthetic
+Whitefield,Cafe / Restaurant,15093,66,225,29569,2.42,20,96,57,51.72,Medium,Synthetic
+Whitefield,Cafe / Restaurant,10716,12,15,16378,0.79,84,81,59,67.25,Medium,Synthetic
+Whitefield,Cafe / Restaurant,12333,35,185,68044,2.42,68,37,80,51.07,Medium,Synthetic
+Whitefield,Cafe / Restaurant,20724,49,201,24605,2.04,73,33,56,57.66,Medium,Synthetic
+Whitefield,Cafe / Restaurant,8912,41,26,45623,2.7,78,63,74,50.65,Medium,Synthetic
+Whitefield,Cafe / Restaurant,19114,19,148,95276,4.65,64,25,59,53.12,Medium,Synthetic
+Whitefield,Cafe / Restaurant,12210,76,81,90279,3.39,31,85,52,31.32,Low,Synthetic
+Whitefield,Cafe / Restaurant,7052,47,224,15760,3.06,37,90,87,55.86,Medium,Synthetic
+Whitefield,Cafe / Restaurant,21373,33,136,36995,1.91,38,52,59,60.46,Medium,Synthetic
+Whitefield,Cafe / Restaurant,15641,15,50,73350,2.12,48,98,85,61.8,Medium,Synthetic
+Whitefield,Cafe / Restaurant,5842,75,214,86637,3.22,92,63,47,37.13,Low,Synthetic
+Whitefield,Cafe / Restaurant,15777,38,140,18031,4.96,21,65,31,44.8,Low,Synthetic
+Whitefield,Cafe / Restaurant,22850,65,64,79534,0.31,81,73,44,57.98,Medium,Synthetic
+Whitefield,Cafe / Restaurant,5819,21,191,29514,2.21,64,97,72,66.7,Medium,Synthetic
+Whitefield,Cafe / Restaurant,14213,30,197,54849,1.98,86,52,63,59.09,Medium,Synthetic
+Whitefield,Cafe / Restaurant,20743,75,57,59775,1.92,76,57,43,51.14,Medium,Synthetic
+Whitefield,Cafe / Restaurant,16966,34,193,52603,2.21,87,61,75,63.68,Medium,Synthetic
+Whitefield,Cafe / Restaurant,21297,35,180,56014,0.45,30,73,57,53.98,Medium,Synthetic
+Whitefield,Cafe / Restaurant,12767,69,145,12929,4.22,75,100,84,55.48,Medium,Synthetic
+Whitefield,Cafe / Restaurant,8652,4,163,19597,0.25,83,75,69,73.79,High,Synthetic
+Whitefield,Cafe / Restaurant,22693,59,134,65161,4.51,56,66,54,49.95,Medium,Synthetic
+Whitefield,Cafe / Restaurant,10139,73,122,37372,1.51,66,41,41,46.31,Medium,Synthetic
+Whitefield,Cafe / Restaurant,16355,69,174,27848,2.81,53,77,70,57.78,Medium,Synthetic
+Whitefield,Retail Shop,8857,46,136,74443,1.25,30,92,20,41.18,Low,Synthetic
+Whitefield,Retail Shop,5627,63,33,93532,2.28,30,75,36,25.77,Low,Synthetic
+Whitefield,Retail Shop,13429,24,28,89988,3.68,27,52,24,43.27,Low,Synthetic
+Whitefield,Retail Shop,6660,36,127,87774,4.82,30,78,64,35.39,Low,Synthetic
+Whitefield,Retail Shop,16021,11,240,28859,0.38,75,44,60,71.17,High,Synthetic
+Whitefield,Retail Shop,4557,12,79,78418,2.37,67,76,89,45.86,Medium,Synthetic
+Whitefield,Retail Shop,11269,75,170,91063,2.26,46,99,83,47.55,Medium,Synthetic
+Whitefield,Retail Shop,6808,51,190,81338,2.1,70,71,23,40.32,Low,Synthetic
+Whitefield,Retail Shop,19688,72,125,20016,3.24,91,43,82,61.9,Medium,Synthetic
+Whitefield,Retail Shop,20165,67,196,37518,3.17,50,46,62,51.51,Medium,Synthetic
+Whitefield,Retail Shop,16413,21,217,29611,4.04,43,59,75,65.59,Medium,Synthetic
+Whitefield,Retail Shop,24536,47,172,89842,1.08,45,95,49,60.57,Medium,Synthetic
+Whitefield,Retail Shop,24620,8,142,19295,4.06,20,60,54,69.56,Medium,Synthetic
+Whitefield,Retail Shop,14433,63,113,89064,3.64,97,28,49,47.54,Medium,Synthetic
+Whitefield,Retail Shop,15948,34,54,40220,0.59,35,90,59,63.56,Medium,Synthetic
+Whitefield,Retail Shop,9776,34,243,68699,3.56,79,90,85,60.05,Medium,Synthetic
+Whitefield,Retail Shop,6555,34,48,80487,1.53,74,51,72,51.36,Medium,Synthetic
+Whitefield,Retail Shop,6368,17,242,34173,4.9,40,43,72,56.26,Medium,Synthetic
+Whitefield,Retail Shop,14576,55,32,50333,2.32,91,78,71,52.45,Medium,Synthetic
+Whitefield,Retail Shop,4159,14,187,28237,4.13,43,46,49,44.35,Low,Synthetic
+Whitefield,Retail Shop,9590,8,219,86763,2.53,97,58,94,61.02,Medium,Synthetic
+Whitefield,Retail Shop,11016,76,58,66238,1.03,45,42,57,38.45,Low,Synthetic
+Whitefield,Retail Shop,18087,41,143,92811,3.73,48,52,30,46.52,Medium,Synthetic
+Whitefield,Retail Shop,8728,65,116,44402,2.87,53,68,87,46.67,Medium,Synthetic
+Whitefield,Retail Shop,14380,49,207,60695,4.82,56,41,77,46.98,Medium,Synthetic
+Whitefield,Gym / Fitness Center,12662,29,170,56760,3.55,29,71,42,51.17,Medium,Synthetic
+Whitefield,Gym / Fitness Center,23991,11,26,66040,1.56,40,36,56,59.58,Medium,Synthetic
+Whitefield,Gym / Fitness Center,17200,48,112,30971,4.34,66,42,97,54.02,Medium,Synthetic
+Whitefield,Gym / Fitness Center,17411,31,139,93423,1.92,57,99,73,59.25,Medium,Synthetic
+Whitefield,Gym / Fitness Center,6005,45,246,69505,2.03,27,31,55,36.08,Low,Synthetic
+Whitefield,Gym / Fitness Center,20363,44,158,28923,3.59,73,89,40,65.52,Medium,Synthetic
+Whitefield,Gym / Fitness Center,15515,13,66,38672,0.65,29,77,63,65.3,Medium,Synthetic
+Whitefield,Gym / Fitness Center,24132,24,11,54965,3.58,33,34,54,51.69,Medium,Synthetic
+Whitefield,Gym / Fitness Center,12578,17,21,48021,1.41,48,67,44,56.17,Medium,Synthetic
+Whitefield,Gym / Fitness Center,16096,28,25,23950,1.18,77,100,46,68.69,Medium,Synthetic
+Whitefield,Gym / Fitness Center,15956,42,196,63374,4.06,53,61,25,39.05,Low,Synthetic
+Whitefield,Gym / Fitness Center,12224,55,195,63955,3.25,31,40,99,42.11,Low,Synthetic
+Whitefield,Gym / Fitness Center,18890,77,144,68547,4.25,92,56,94,49.76,Medium,Synthetic
+Whitefield,Gym / Fitness Center,17767,45,223,74522,1.58,86,53,48,60.38,Medium,Synthetic
+Whitefield,Gym / Fitness Center,23660,79,133,61067,0.38,28,29,75,49.3,Medium,Synthetic
+Whitefield,Gym / Fitness Center,20661,17,68,58169,1.06,76,50,44,64.55,Medium,Synthetic
+Whitefield,Gym / Fitness Center,17705,45,92,67751,3.22,47,99,84,57.69,Medium,Synthetic
+Whitefield,Gym / Fitness Center,4215,54,197,30990,0.4,65,50,24,45.47,Medium,Synthetic
+Whitefield,Gym / Fitness Center,9939,75,63,88721,1.58,34,85,40,34.7,Low,Synthetic
+Whitefield,Gym / Fitness Center,15837,62,219,77101,2.78,32,27,25,38.79,Low,Synthetic
+Whitefield,Gym / Fitness Center,5116,8,181,12492,0.34,52,99,96,62.04,Medium,Synthetic
+Whitefield,Gym / Fitness Center,15755,70,178,24867,4.76,67,80,83,54.85,Medium,Synthetic
+Whitefield,Gym / Fitness Center,11866,62,85,99178,2.35,37,43,74,32.57,Low,Synthetic
+Whitefield,Gym / Fitness Center,5296,43,89,67745,4.84,27,37,27,34.26,Low,Synthetic
+Whitefield,Gym / Fitness Center,14717,65,180,33542,3.93,63,33,56,40.59,Low,Synthetic
+Whitefield,Pharmacy,8967,66,64,55463,4.06,41,51,86,40.04,Low,Synthetic
+Whitefield,Pharmacy,24331,13,182,24297,4.52,73,51,53,66.02,Medium,Synthetic
+Whitefield,Pharmacy,13171,20,126,15696,2.28,97,41,37,67.78,Medium,Synthetic
+Whitefield,Pharmacy,16972,53,100,78641,3.32,20,82,45,36.7,Low,Synthetic
+Whitefield,Pharmacy,24584,5,131,99440,0.83,60,92,88,72.27,High,Synthetic
+Whitefield,Pharmacy,6871,51,158,34626,1.7,38,84,90,51.79,Medium,Synthetic
+Whitefield,Pharmacy,6179,23,115,20275,2.54,27,65,38,54.13,Medium,Synthetic
+Whitefield,Pharmacy,20998,46,165,32954,0.44,34,61,20,63.27,Medium,Synthetic
+Whitefield,Pharmacy,16327,63,198,27523,3.5,43,48,23,44.23,Low,Synthetic
+Whitefield,Pharmacy,20673,57,186,18614,0.32,42,93,72,69.81,Medium,Synthetic
+Whitefield,Pharmacy,5380,57,147,97076,1.59,22,75,66,25.66,Low,Synthetic
+Whitefield,Pharmacy,14179,76,47,32466,3.35,60,93,32,37.5,Low,Synthetic
+Whitefield,Pharmacy,6749,25,121,42106,1.43,76,71,58,54.14,Medium,Synthetic
+Whitefield,Pharmacy,9141,54,158,30375,3.34,78,55,61,45.91,Medium,Synthetic
+Whitefield,Pharmacy,16541,9,218,64874,3.18,36,92,67,64.69,Medium,Synthetic
+Whitefield,Pharmacy,17422,25,132,23156,2.84,84,87,70,71.44,High,Synthetic
+Whitefield,Pharmacy,24583,15,105,79450,4.04,42,63,76,59.29,Medium,Synthetic
+Whitefield,Pharmacy,7664,34,178,96444,0.8,89,30,71,51.19,Medium,Synthetic
+Whitefield,Pharmacy,6230,64,74,24112,1.96,34,56,87,49.37,Medium,Synthetic
+Whitefield,Pharmacy,10033,43,125,30919,4.01,52,38,53,39.51,Low,Synthetic
+Whitefield,Pharmacy,23356,6,130,94912,4.84,84,93,46,60.6,Medium,Synthetic
+Whitefield,Pharmacy,15599,6,241,79391,3.6,38,100,99,62.3,Medium,Synthetic
+Whitefield,Pharmacy,23477,57,238,55526,1.63,86,40,70,57.73,Medium,Synthetic
+Whitefield,Pharmacy,17521,72,133,12112,0.2,72,99,24,64.86,Medium,Synthetic
+Whitefield,Pharmacy,23552,5,66,84525,3.07,78,57,81,59.43,Medium,Synthetic
+Whitefield,Salon / Beauty Center,20433,19,223,38049,1.11,58,92,52,77.56,High,Synthetic
+Whitefield,Salon / Beauty Center,19950,14,224,34931,1.46,82,98,76,82.54,High,Synthetic
+Whitefield,Salon / Beauty Center,9788,74,26,22561,4.86,88,52,81,37.71,Low,Synthetic
+Whitefield,Salon / Beauty Center,18256,49,213,40230,1.39,29,59,99,61.35,Medium,Synthetic
+Whitefield,Salon / Beauty Center,9633,24,83,16117,0.81,74,63,48,68.76,Medium,Synthetic
+Whitefield,Salon / Beauty Center,7554,66,167,31233,3.55,25,51,29,33.43,Low,Synthetic
+Whitefield,Salon / Beauty Center,16360,48,79,57800,2.68,78,26,48,56.58,Medium,Synthetic
+Whitefield,Salon / Beauty Center,19674,22,188,13813,3.16,49,49,47,60.03,Medium,Synthetic
+Whitefield,Salon / Beauty Center,8396,68,16,94736,2.76,20,34,55,28.77,Low,Synthetic
+Whitefield,Salon / Beauty Center,12367,38,154,94289,3.74,69,59,44,49.09,Medium,Synthetic
+Whitefield,Salon / Beauty Center,7676,73,164,80498,2.99,36,67,60,37.03,Low,Synthetic
+Whitefield,Salon / Beauty Center,14278,23,120,74943,4.57,82,93,62,51.48,Medium,Synthetic
+Whitefield,Salon / Beauty Center,9039,34,49,22442,2.35,86,86,77,66.82,Medium,Synthetic
+Whitefield,Salon / Beauty Center,5629,48,147,78897,4.04,38,60,78,43.98,Low,Synthetic
+Whitefield,Salon / Beauty Center,14558,77,183,88162,3.12,84,32,70,37.89,Low,Synthetic
+Whitefield,Salon / Beauty Center,14748,6,116,20024,1.73,79,52,73,76.15,High,Synthetic
+Whitefield,Salon / Beauty Center,22257,56,196,32025,1.32,79,64,55,59.3,Medium,Synthetic
+Whitefield,Salon / Beauty Center,18427,18,107,93982,1.53,30,82,76,58.42,Medium,Synthetic
+Whitefield,Salon / Beauty Center,17516,4,223,40927,2.1,73,92,98,80.94,High,Synthetic
+Whitefield,Salon / Beauty Center,15173,1,111,43781,0.65,48,29,93,62.99,Medium,Synthetic
+Whitefield,Salon / Beauty Center,19195,21,208,76450,4.09,54,92,88,69.36,Medium,Synthetic
+Whitefield,Salon / Beauty Center,4060,63,131,26387,4.38,74,70,51,33.2,Low,Synthetic
+Whitefield,Salon / Beauty Center,16127,5,45,74061,1.84,77,63,99,69.72,Medium,Synthetic
+Whitefield,Salon / Beauty Center,22978,39,159,44854,4.21,99,91,49,55.82,Medium,Synthetic
+Whitefield,Salon / Beauty Center,10968,73,38,13700,2.11,51,70,42,51.86,Medium,Synthetic
+Whitefield,Electronics Store,20980,66,238,53605,3.97,41,57,49,46.02,Medium,Synthetic
+Whitefield,Electronics Store,12912,32,179,53458,1.28,29,60,53,63.26,Medium,Synthetic
+Whitefield,Electronics Store,6294,47,136,61298,1.74,47,48,91,47.82,Medium,Synthetic
+Whitefield,Electronics Store,14602,9,184,97280,2.2,38,91,93,66.17,Medium,Synthetic
+Whitefield,Electronics Store,5948,50,107,17618,2.78,20,58,67,42.8,Low,Synthetic
+Whitefield,Electronics Store,4238,77,57,83088,2.53,80,53,58,33.02,Low,Synthetic
+Whitefield,Electronics Store,19810,7,67,12192,0.19,36,67,44,68.39,Medium,Synthetic
+Whitefield,Electronics Store,22172,3,216,48468,1.19,45,40,44,71.97,High,Synthetic
+Whitefield,Electronics Store,24288,41,117,55954,1.5,90,53,38,66.38,Medium,Synthetic
+Whitefield,Electronics Store,9057,41,182,16994,0.17,65,54,76,60.02,Medium,Synthetic
+Whitefield,Electronics Store,9991,36,88,37307,2.77,68,69,85,59.56,Medium,Synthetic
+Whitefield,Electronics Store,10476,45,88,61683,4.99,86,27,73,45.3,Medium,Synthetic
+Whitefield,Electronics Store,6890,30,244,45665,3.34,68,33,50,54.53,Medium,Synthetic
+Whitefield,Electronics Store,21889,61,216,66319,0.43,27,97,77,62.6,Medium,Synthetic
+Whitefield,Electronics Store,6854,58,218,56386,3.39,83,68,48,47.35,Medium,Synthetic
+Whitefield,Electronics Store,6618,71,101,47710,4.46,48,82,36,37.01,Low,Synthetic
+Whitefield,Electronics Store,22196,64,99,78025,2.94,81,66,95,48.49,Medium,Synthetic
+Whitefield,Electronics Store,7516,13,20,44821,1.99,78,81,59,62.33,Medium,Synthetic
+Whitefield,Electronics Store,14973,76,147,55307,3.75,99,26,69,44.86,Low,Synthetic
+Whitefield,Electronics Store,10539,23,155,19485,4.0,81,62,86,62.32,Medium,Synthetic
+Whitefield,Electronics Store,17440,45,233,49019,2.37,32,51,26,52.46,Medium,Synthetic
+Whitefield,Electronics Store,11957,74,240,55395,2.36,89,100,52,49.16,Medium,Synthetic
+Whitefield,Electronics Store,10718,22,79,92764,4.41,54,29,79,42.08,Low,Synthetic
+Whitefield,Electronics Store,7191,46,187,97679,1.68,75,83,48,52.35,Medium,Synthetic
+Whitefield,Electronics Store,19623,75,234,62357,3.56,57,72,46,43.9,Low,Synthetic
+Electronic City,Cafe / Restaurant,13867,43,198,76286,4.03,80,98,86,54.29,Medium,Synthetic
+Electronic City,Cafe / Restaurant,6850,75,196,82130,2.09,49,72,54,33.65,Low,Synthetic
+Electronic City,Cafe / Restaurant,18933,38,168,55469,4.59,68,56,74,56.33,Medium,Synthetic
+Electronic City,Cafe / Restaurant,15618,3,217,98724,4.34,29,49,87,57.0,Medium,Synthetic
+Electronic City,Cafe / Restaurant,13788,29,136,20210,2.27,93,85,62,72.7,High,Synthetic
+Electronic City,Cafe / Restaurant,15094,24,148,17741,1.92,47,93,82,75.35,High,Synthetic
+Electronic City,Cafe / Restaurant,21722,5,60,34164,4.91,23,66,57,57.94,Medium,Synthetic
+Electronic City,Cafe / Restaurant,23345,27,64,75185,0.64,94,45,63,64.56,Medium,Synthetic
+Electronic City,Cafe / Restaurant,7716,41,68,31288,3.28,93,46,84,56.81,Medium,Synthetic
+Electronic City,Cafe / Restaurant,22062,76,159,21941,2.94,100,70,33,63.13,Medium,Synthetic
+Electronic City,Cafe / Restaurant,23889,20,187,95055,0.22,78,67,98,72.16,High,Synthetic
+Electronic City,Cafe / Restaurant,18501,3,165,15255,4.77,32,90,56,68.33,Medium,Synthetic
+Electronic City,Cafe / Restaurant,23173,66,45,35989,2.96,91,64,62,53.52,Medium,Synthetic
+Electronic City,Cafe / Restaurant,22771,55,153,37517,3.33,26,69,78,55.39,Medium,Synthetic
+Electronic City,Cafe / Restaurant,5262,56,185,71546,3.71,92,59,70,42.86,Low,Synthetic
+Electronic City,Cafe / Restaurant,5230,20,133,17750,2.04,36,88,61,57.32,Medium,Synthetic
+Electronic City,Cafe / Restaurant,24973,11,107,99985,2.14,77,58,39,60.36,Medium,Synthetic
+Electronic City,Cafe / Restaurant,23539,3,46,77149,0.91,91,64,75,68.54,Medium,Synthetic
+Electronic City,Cafe / Restaurant,5942,11,119,37479,1.18,75,84,29,55.5,Medium,Synthetic
+Electronic City,Cafe / Restaurant,21420,36,110,56825,4.06,83,62,41,50.56,Medium,Synthetic
+Electronic City,Cafe / Restaurant,15905,31,128,57066,2.86,81,93,83,62.96,Medium,Synthetic
+Electronic City,Cafe / Restaurant,23567,60,199,50230,0.5,76,79,72,75.96,High,Synthetic
+Electronic City,Cafe / Restaurant,12417,9,31,82744,2.91,95,64,36,51.44,Medium,Synthetic
+Electronic City,Cafe / Restaurant,11692,32,146,98055,1.92,96,97,82,59.88,Medium,Synthetic
+Electronic City,Cafe / Restaurant,7915,44,47,29618,3.32,67,42,35,41.28,Low,Synthetic
+Electronic City,Retail Shop,18680,62,241,46700,4.46,25,84,33,38.4,Low,Synthetic
+Electronic City,Retail Shop,5630,54,141,95494,4.67,96,56,78,38.0,Low,Synthetic
+Electronic City,Retail Shop,20436,67,165,62818,1.0,99,46,57,50.76,Medium,Synthetic
+Electronic City,Retail Shop,10855,72,71,37805,1.34,29,27,78,45.97,Medium,Synthetic
+Electronic City,Retail Shop,20732,69,199,31800,0.22,50,46,23,50.01,Medium,Synthetic
+Electronic City,Retail Shop,19916,42,123,85648,3.17,96,78,55,46.73,Medium,Synthetic
+Electronic City,Retail Shop,19632,24,67,83386,0.3,65,96,27,57.73,Medium,Synthetic
+Electronic City,Retail Shop,4314,59,22,83128,3.54,21,41,49,29.68,Low,Synthetic
+Electronic City,Retail Shop,6828,43,222,76093,1.1,74,64,34,44.99,Low,Synthetic
+Electronic City,Retail Shop,23145,53,224,55391,0.27,52,81,71,67.1,Medium,Synthetic
+Electronic City,Retail Shop,7791,9,41,75627,3.65,97,81,27,53.29,Medium,Synthetic
+Electronic City,Retail Shop,22074,62,21,64265,2.02,30,67,36,47.04,Medium,Synthetic
+Electronic City,Retail Shop,13940,40,160,87319,2.0,69,61,83,46.4,Medium,Synthetic
+Electronic City,Retail Shop,8917,72,242,98242,2.15,68,45,85,40.69,Low,Synthetic
+Electronic City,Retail Shop,8763,17,15,23410,1.04,47,90,57,60.98,Medium,Synthetic
+Electronic City,Retail Shop,15382,37,124,68563,3.72,68,67,55,54.38,Medium,Synthetic
+Electronic City,Retail Shop,9366,60,247,83762,1.63,75,52,20,44.35,Low,Synthetic
+Electronic City,Retail Shop,5961,48,49,88384,4.68,91,28,57,34.12,Low,Synthetic
+Electronic City,Retail Shop,13590,14,246,17698,1.31,92,50,39,63.63,Medium,Synthetic
+Electronic City,Retail Shop,15273,67,161,99234,3.81,99,39,54,41.83,Low,Synthetic
+Electronic City,Retail Shop,19641,47,171,30782,1.85,31,28,67,50.67,Medium,Synthetic
+Electronic City,Retail Shop,6230,1,98,38177,1.0,40,73,81,57.54,Medium,Synthetic
+Electronic City,Retail Shop,9884,15,119,66195,3.7,44,45,24,44.13,Low,Synthetic
+Electronic City,Retail Shop,6672,47,224,13987,2.95,40,47,83,49.8,Medium,Synthetic
+Electronic City,Retail Shop,24824,52,209,67798,1.34,83,29,72,63.36,Medium,Synthetic
+Electronic City,Gym / Fitness Center,4310,37,65,32922,4.9,88,97,78,56.72,Medium,Synthetic
+Electronic City,Gym / Fitness Center,18011,51,39,17898,2.71,95,63,96,65.39,Medium,Synthetic
+Electronic City,Gym / Fitness Center,21274,72,200,41631,4.7,73,97,77,47.9,Medium,Synthetic
+Electronic City,Gym / Fitness Center,17558,31,61,66710,1.17,20,89,82,54.23,Medium,Synthetic
+Electronic City,Gym / Fitness Center,19849,54,179,32884,3.75,41,62,99,61.76,Medium,Synthetic
+Electronic City,Gym / Fitness Center,8624,13,154,90672,1.86,64,30,54,45.81,Medium,Synthetic
+Electronic City,Gym / Fitness Center,10509,14,248,61223,4.06,73,51,32,44.25,Low,Synthetic
+Electronic City,Gym / Fitness Center,13275,6,206,25269,0.48,42,58,45,64.6,Medium,Synthetic
+Electronic City,Gym / Fitness Center,15268,20,143,80154,3.32,37,28,36,42.37,Low,Synthetic
+Electronic City,Gym / Fitness Center,11566,19,72,36042,0.32,54,59,38,55.33,Medium,Synthetic
+Electronic City,Gym / Fitness Center,22323,35,169,22283,4.09,80,41,90,63.39,Medium,Synthetic
+Electronic City,Gym / Fitness Center,8895,36,150,73381,3.41,33,61,98,45.05,Medium,Synthetic
+Electronic City,Gym / Fitness Center,18062,68,49,69530,0.24,35,86,23,40.85,Low,Synthetic
+Electronic City,Gym / Fitness Center,22668,66,40,40807,2.56,62,55,92,54.38,Medium,Synthetic
+Electronic City,Gym / Fitness Center,7558,45,203,64999,0.35,76,54,93,53.32,Medium,Synthetic
+Electronic City,Gym / Fitness Center,20244,39,69,49034,4.48,42,93,25,50.74,Medium,Synthetic
+Electronic City,Gym / Fitness Center,5657,4,102,95973,1.33,37,39,59,38.85,Low,Synthetic
+Electronic City,Gym / Fitness Center,13417,6,121,84055,0.29,86,35,62,61.55,Medium,Synthetic
+Electronic City,Gym / Fitness Center,11263,4,200,70819,1.25,24,56,89,54.86,Medium,Synthetic
+Electronic City,Gym / Fitness Center,22581,11,214,39386,3.92,28,84,95,68.92,Medium,Synthetic
+Electronic City,Gym / Fitness Center,15533,18,122,92122,4.7,42,98,66,50.91,Medium,Synthetic
+Electronic City,Gym / Fitness Center,18038,30,34,47739,0.74,44,98,97,55.22,Medium,Synthetic
+Electronic City,Gym / Fitness Center,23945,58,103,18782,0.18,97,72,29,65.0,Medium,Synthetic
+Electronic City,Gym / Fitness Center,9695,2,85,59224,2.16,73,99,35,57.76,Medium,Synthetic
+Electronic City,Gym / Fitness Center,21937,59,99,51567,0.16,66,72,61,53.04,Medium,Synthetic
+Electronic City,Pharmacy,9877,2,227,16922,2.72,98,96,26,75.03,High,Synthetic
+Electronic City,Pharmacy,22286,46,72,35527,0.56,32,67,36,55.4,Medium,Synthetic
+Electronic City,Pharmacy,22211,8,78,61241,0.57,47,71,95,67.05,Medium,Synthetic
+Electronic City,Pharmacy,19972,30,160,34927,1.73,90,76,56,67.8,Medium,Synthetic
+Electronic City,Pharmacy,19790,46,189,24748,2.9,83,61,46,67.98,Medium,Synthetic
+Electronic City,Pharmacy,17971,25,79,16926,1.87,41,40,37,64.87,Medium,Synthetic
+Electronic City,Pharmacy,13021,22,189,78467,0.7,38,62,89,54.38,Medium,Synthetic
+Electronic City,Pharmacy,19475,79,194,95231,4.14,24,44,94,42.92,Low,Synthetic
+Electronic City,Pharmacy,15563,34,86,51560,0.87,26,92,38,50.7,Medium,Synthetic
+Electronic City,Pharmacy,12681,31,137,89986,2.93,80,55,72,48.62,Medium,Synthetic
+Electronic City,Pharmacy,5161,2,203,50751,4.27,65,63,50,58.86,Medium,Synthetic
+Electronic City,Pharmacy,7178,1,148,45654,0.59,90,50,69,63.75,Medium,Synthetic
+Electronic City,Pharmacy,21755,65,56,33684,3.85,21,48,23,35.89,Low,Synthetic
+Electronic City,Pharmacy,14770,26,212,53777,3.4,86,36,86,62.46,Medium,Synthetic
+Electronic City,Pharmacy,7009,49,153,26209,2.92,49,62,47,52.92,Medium,Synthetic
+Electronic City,Pharmacy,20152,10,197,45065,1.24,96,66,66,78.36,High,Synthetic
+Electronic City,Pharmacy,14401,32,227,17543,0.72,92,34,67,67.75,Medium,Synthetic
+Electronic City,Pharmacy,11206,60,75,40992,3.4,55,48,46,45.94,Medium,Synthetic
+Electronic City,Pharmacy,19553,29,24,26859,3.0,43,45,29,56.08,Medium,Synthetic
+Electronic City,Pharmacy,23053,78,110,71095,1.77,77,100,41,54.05,Medium,Synthetic
+Electronic City,Pharmacy,17731,22,215,55646,3.52,75,57,64,57.59,Medium,Synthetic
+Electronic City,Pharmacy,11697,38,204,29046,0.11,35,83,88,67.95,Medium,Synthetic
+Electronic City,Pharmacy,9581,78,207,70255,4.52,33,85,90,43.23,Low,Synthetic
+Electronic City,Pharmacy,24013,32,24,37256,2.36,63,29,46,64.7,Medium,Synthetic
+Electronic City,Pharmacy,6253,79,52,12864,0.17,36,78,81,44.58,Low,Synthetic
+Electronic City,Salon / Beauty Center,8054,32,177,55298,4.5,48,94,44,53.22,Medium,Synthetic
+Electronic City,Salon / Beauty Center,8603,72,138,44467,0.78,94,63,73,45.68,Medium,Synthetic
+Electronic City,Salon / Beauty Center,21751,75,166,26389,4.38,39,70,86,50.05,Medium,Synthetic
+Electronic City,Salon / Beauty Center,19470,1,90,19493,3.0,70,57,22,70.32,High,Synthetic
+Electronic City,Salon / Beauty Center,18523,35,206,17594,0.69,39,97,58,68.66,Medium,Synthetic
+Electronic City,Salon / Beauty Center,11269,45,180,64664,1.49,71,77,62,57.54,Medium,Synthetic
+Electronic City,Salon / Beauty Center,14450,72,209,52745,2.67,45,47,62,47.36,Medium,Synthetic
+Electronic City,Salon / Beauty Center,24690,39,188,82411,2.42,74,35,45,52.41,Medium,Synthetic
+Electronic City,Salon / Beauty Center,17353,27,20,72197,2.66,38,88,25,46.74,Medium,Synthetic
+Electronic City,Salon / Beauty Center,21627,65,108,91079,2.77,71,71,26,40.26,Low,Synthetic
+Electronic City,Salon / Beauty Center,24746,61,77,85369,3.88,31,67,70,44.55,Low,Synthetic
+Electronic City,Salon / Beauty Center,12792,54,194,27989,3.18,68,31,30,46.04,Medium,Synthetic
+Electronic City,Salon / Beauty Center,18312,45,32,97489,2.96,76,50,44,43.54,Low,Synthetic
+Electronic City,Salon / Beauty Center,19523,14,87,48386,3.32,36,91,99,63.76,Medium,Synthetic
+Electronic City,Salon / Beauty Center,22157,30,102,33164,0.66,70,71,72,78.29,High,Synthetic
+Electronic City,Salon / Beauty Center,15350,7,31,54832,4.78,60,98,29,52.41,Medium,Synthetic
+Electronic City,Salon / Beauty Center,21848,7,249,57436,0.64,71,57,20,70.64,High,Synthetic
+Electronic City,Salon / Beauty Center,5539,17,141,86229,0.39,20,95,69,47.55,Medium,Synthetic
+Electronic City,Salon / Beauty Center,16744,61,44,94839,4.03,69,67,46,34.5,Low,Synthetic
+Electronic City,Salon / Beauty Center,4507,29,25,23618,0.84,78,55,23,51.97,Medium,Synthetic
+Electronic City,Salon / Beauty Center,24900,17,48,17037,3.8,58,28,49,63.04,Medium,Synthetic
+Electronic City,Salon / Beauty Center,22539,12,231,12692,1.06,20,82,25,68.02,Medium,Synthetic
+Electronic City,Salon / Beauty Center,11211,72,161,36594,2.63,49,66,52,45.52,Medium,Synthetic
+Electronic City,Salon / Beauty Center,21245,27,176,45672,4.38,95,53,52,59.49,Medium,Synthetic
+Electronic City,Salon / Beauty Center,5725,15,11,34195,0.22,63,78,37,60.07,Medium,Synthetic
+Electronic City,Electronics Store,4421,37,195,61056,4.19,30,92,87,46.12,Medium,Synthetic
+Electronic City,Electronics Store,10748,22,203,31627,4.68,61,49,76,54.68,Medium,Synthetic
+Electronic City,Electronics Store,12415,51,128,24720,2.9,64,46,51,50.43,Medium,Synthetic
+Electronic City,Electronics Store,11620,69,51,47892,2.66,93,63,34,45.08,Medium,Synthetic
+Electronic City,Electronics Store,19310,35,15,17515,2.05,96,43,86,63.4,Medium,Synthetic
+Electronic City,Electronics Store,13095,8,131,20531,2.42,70,91,64,72.99,High,Synthetic
+Electronic City,Electronics Store,23951,9,69,84013,4.8,90,39,90,72.29,High,Synthetic
+Electronic City,Electronics Store,24705,41,31,56439,2.67,63,25,29,49.78,Medium,Synthetic
+Electronic City,Electronics Store,18347,60,163,70861,2.64,60,60,42,46.05,Medium,Synthetic
+Electronic City,Electronics Store,18506,6,248,38026,0.33,81,37,62,69.72,Medium,Synthetic
+Electronic City,Electronics Store,21726,57,101,30610,1.72,51,33,87,58.03,Medium,Synthetic
+Electronic City,Electronics Store,21197,67,163,91823,4.82,64,37,88,45.25,Medium,Synthetic
+Electronic City,Electronics Store,6038,45,123,81806,4.62,96,79,94,49.34,Medium,Synthetic
+Electronic City,Electronics Store,13190,53,35,51661,4.81,64,68,84,47.25,Medium,Synthetic
+Electronic City,Electronics Store,11669,19,91,67371,3.68,79,83,52,53.6,Medium,Synthetic
+Electronic City,Electronics Store,6962,28,132,57747,4.35,68,61,45,46.22,Medium,Synthetic
+Electronic City,Electronics Store,21575,38,86,93533,2.65,73,46,35,52.32,Medium,Synthetic
+Electronic City,Electronics Store,16271,35,197,20876,0.75,74,50,44,56.59,Medium,Synthetic
+Electronic City,Electronics Store,21010,64,96,43658,3.53,49,42,98,47.21,Medium,Synthetic
+Electronic City,Electronics Store,23680,21,66,33398,1.64,63,71,59,68.37,Medium,Synthetic
+Electronic City,Electronics Store,17743,6,100,41320,3.75,76,55,40,54.71,Medium,Synthetic
+Electronic City,Electronics Store,11257,40,121,60940,2.49,39,41,47,36.4,Low,Synthetic
+Electronic City,Electronics Store,13713,41,143,63448,1.29,25,69,94,54.27,Medium,Synthetic
+Electronic City,Electronics Store,22061,66,177,17622,2.91,43,43,37,48.52,Medium,Synthetic
+Electronic City,Electronics Store,10487,35,199,34499,1.45,68,40,38,59.17,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,8818,25,25,19349,4.57,20,66,38,44.15,Low,Synthetic
+Jayanagar,Cafe / Restaurant,19207,55,155,93441,2.24,64,30,40,42.07,Low,Synthetic
+Jayanagar,Cafe / Restaurant,9753,70,105,18191,0.97,50,34,49,47.51,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,8476,73,232,42734,2.0,59,33,28,45.56,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,10297,4,218,85870,0.85,71,93,24,67.15,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,24225,13,13,17033,3.71,80,32,86,72.74,High,Synthetic
+Jayanagar,Cafe / Restaurant,19855,63,119,92639,4.5,30,66,32,35.06,Low,Synthetic
+Jayanagar,Cafe / Restaurant,20932,74,82,44966,1.63,75,84,42,48.37,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,13830,40,73,25798,0.51,48,75,88,65.44,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,11601,20,245,57264,0.99,44,37,89,63.56,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,15970,58,108,41265,1.11,83,93,78,61.16,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,23773,16,137,63415,4.14,34,79,54,59.47,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,10326,14,186,17586,4.79,26,54,68,54.79,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,24711,51,81,48561,1.65,61,41,82,57.25,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,22604,77,16,93417,3.85,44,30,43,31.85,Low,Synthetic
+Jayanagar,Cafe / Restaurant,19511,75,35,56414,0.69,47,27,94,47.87,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,10221,51,99,33045,3.35,78,96,70,53.42,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,9178,71,146,14716,3.74,75,92,54,50.23,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,20762,3,246,78151,4.31,20,95,63,63.93,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,9417,33,187,83139,2.93,78,72,24,44.18,Low,Synthetic
+Jayanagar,Cafe / Restaurant,13775,3,125,20802,4.21,82,85,50,64.77,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,15891,23,91,21265,1.6,98,94,46,66.53,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,10414,50,45,55254,1.43,22,86,66,47.22,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,19581,13,10,53505,1.91,97,95,50,69.89,Medium,Synthetic
+Jayanagar,Cafe / Restaurant,7775,25,47,95981,4.92,73,26,100,45.01,Medium,Synthetic
+Jayanagar,Retail Shop,15357,61,31,26626,4.49,69,67,36,45.33,Medium,Synthetic
+Jayanagar,Retail Shop,12633,2,141,18054,1.67,25,93,88,69.55,Medium,Synthetic
+Jayanagar,Retail Shop,17799,73,206,78985,1.18,28,88,41,48.1,Medium,Synthetic
+Jayanagar,Retail Shop,6721,55,166,21637,3.69,37,95,84,52.9,Medium,Synthetic
+Jayanagar,Retail Shop,11299,4,134,80689,0.46,78,56,52,56.03,Medium,Synthetic
+Jayanagar,Retail Shop,14345,55,237,40229,0.63,53,80,32,55.11,Medium,Synthetic
+Jayanagar,Retail Shop,10256,43,48,49052,2.59,98,42,42,44.76,Low,Synthetic
+Jayanagar,Retail Shop,15445,30,107,53785,0.28,90,42,26,54.67,Medium,Synthetic
+Jayanagar,Retail Shop,20576,68,247,85779,4.33,48,45,97,49.18,Medium,Synthetic
+Jayanagar,Retail Shop,22952,47,85,19465,1.25,70,94,39,62.5,Medium,Synthetic
+Jayanagar,Retail Shop,8631,47,208,44574,0.4,79,86,49,53.85,Medium,Synthetic
+Jayanagar,Retail Shop,17276,22,212,30557,2.52,60,66,84,63.26,Medium,Synthetic
+Jayanagar,Retail Shop,24877,79,119,35991,0.7,75,43,76,54.64,Medium,Synthetic
+Jayanagar,Retail Shop,12107,35,123,30300,0.31,89,61,84,64.42,Medium,Synthetic
+Jayanagar,Retail Shop,4060,54,177,35065,2.61,84,98,83,54.05,Medium,Synthetic
+Jayanagar,Retail Shop,15962,23,144,16011,3.07,98,58,65,75.57,High,Synthetic
+Jayanagar,Retail Shop,4001,10,187,36700,2.29,31,94,41,49.73,Medium,Synthetic
+Jayanagar,Retail Shop,15112,1,191,88276,2.07,37,30,64,52.48,Medium,Synthetic
+Jayanagar,Retail Shop,20410,26,106,51886,3.53,74,88,76,61.22,Medium,Synthetic
+Jayanagar,Retail Shop,7140,61,139,91737,0.63,57,53,45,40.4,Low,Synthetic
+Jayanagar,Retail Shop,6460,34,106,75656,2.7,90,27,77,50.67,Medium,Synthetic
+Jayanagar,Retail Shop,14833,43,144,61768,1.74,33,76,25,44.73,Low,Synthetic
+Jayanagar,Retail Shop,8321,30,237,67421,1.29,93,87,61,57.45,Medium,Synthetic
+Jayanagar,Retail Shop,18130,64,213,30984,2.68,81,51,47,53.89,Medium,Synthetic
+Jayanagar,Retail Shop,24977,58,139,98654,0.64,90,37,34,46.43,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,24056,60,31,60639,3.48,94,98,44,50.62,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,23621,41,182,94263,0.82,36,81,21,56.51,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,9471,62,225,15720,1.78,36,74,59,47.58,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,16982,29,161,69196,4.4,61,69,36,54.09,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,22504,14,186,44924,1.76,39,71,28,65.33,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,19323,19,99,91795,2.49,45,50,65,45.83,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,16379,49,91,50367,2.5,85,66,38,58.94,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,8272,56,72,69986,2.23,74,50,91,46.23,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,11011,7,55,96269,2.77,43,85,73,49.94,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,22895,16,195,84903,3.77,25,40,39,51.7,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,17647,71,242,54317,2.77,97,95,52,55.26,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,7010,52,77,40412,2.04,21,38,49,45.63,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,9680,12,227,99968,3.57,45,45,47,42.37,Low,Synthetic
+Jayanagar,Gym / Fitness Center,21864,79,214,59894,2.0,67,26,39,45.84,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,10701,3,192,93163,3.53,97,40,53,53.57,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,5996,64,109,15089,1.71,70,95,67,55.3,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,19378,6,93,34884,3.91,78,93,30,69.63,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,4534,53,46,48110,0.79,89,41,45,41.89,Low,Synthetic
+Jayanagar,Gym / Fitness Center,8500,72,158,70232,2.84,91,59,33,41.82,Low,Synthetic
+Jayanagar,Gym / Fitness Center,4363,34,178,84201,3.66,36,91,81,39.17,Low,Synthetic
+Jayanagar,Gym / Fitness Center,15998,1,21,42825,3.59,23,93,38,58.82,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,21249,6,145,82268,3.37,82,81,31,62.88,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,10984,2,17,28121,1.74,72,34,27,55.77,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,14492,14,249,25749,3.77,40,74,58,67.85,Medium,Synthetic
+Jayanagar,Gym / Fitness Center,15283,7,146,25440,3.65,57,85,63,69.76,Medium,Synthetic
+Jayanagar,Pharmacy,13661,6,154,74514,3.73,43,75,29,50.67,Medium,Synthetic
+Jayanagar,Pharmacy,19479,72,158,33751,0.98,76,63,52,53.56,Medium,Synthetic
+Jayanagar,Pharmacy,4755,76,57,54281,1.06,71,66,51,38.15,Low,Synthetic
+Jayanagar,Pharmacy,18057,26,34,49706,3.98,76,76,50,56.87,Medium,Synthetic
+Jayanagar,Pharmacy,16817,47,170,63428,0.3,54,75,37,53.08,Medium,Synthetic
+Jayanagar,Pharmacy,11933,72,134,62717,1.9,29,76,68,43.53,Low,Synthetic
+Jayanagar,Pharmacy,20195,42,156,33341,2.46,42,78,99,68.44,Medium,Synthetic
+Jayanagar,Pharmacy,6880,12,33,45313,0.38,27,42,76,49.01,Medium,Synthetic
+Jayanagar,Pharmacy,19372,29,12,80199,2.84,95,26,94,56.77,Medium,Synthetic
+Jayanagar,Pharmacy,21515,28,91,22828,4.32,95,26,26,58.91,Medium,Synthetic
+Jayanagar,Pharmacy,10159,23,177,99227,4.03,34,37,24,39.53,Low,Synthetic
+Jayanagar,Pharmacy,15593,52,86,33672,0.74,69,39,26,55.0,Medium,Synthetic
+Jayanagar,Pharmacy,12446,15,249,60867,3.81,84,28,30,57.02,Medium,Synthetic
+Jayanagar,Pharmacy,11787,26,198,98436,4.98,59,47,35,41.99,Low,Synthetic
+Jayanagar,Pharmacy,17161,25,53,32836,1.58,28,36,88,61.13,Medium,Synthetic
+Jayanagar,Pharmacy,23187,54,37,39959,0.69,96,82,97,68.79,Medium,Synthetic
+Jayanagar,Pharmacy,5204,33,80,23831,3.17,70,98,62,50.86,Medium,Synthetic
+Jayanagar,Pharmacy,10520,15,175,30830,0.41,73,75,29,69.45,Medium,Synthetic
+Jayanagar,Pharmacy,11448,76,107,54292,0.99,54,87,97,53.45,Medium,Synthetic
+Jayanagar,Pharmacy,12963,41,182,39675,1.22,95,93,20,58.07,Medium,Synthetic
+Jayanagar,Pharmacy,22799,35,183,33673,3.4,68,86,57,61.82,Medium,Synthetic
+Jayanagar,Pharmacy,5173,4,186,12835,2.57,21,73,50,54.66,Medium,Synthetic
+Jayanagar,Pharmacy,9930,55,225,98704,3.61,99,81,96,52.59,Medium,Synthetic
+Jayanagar,Pharmacy,11054,27,205,27823,2.43,49,60,86,58.31,Medium,Synthetic
+Jayanagar,Pharmacy,9755,49,85,29718,0.25,87,68,50,57.56,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,11865,53,93,73646,4.13,35,61,40,35.54,Low,Synthetic
+Jayanagar,Salon / Beauty Center,8428,19,167,69388,1.04,81,60,71,50.46,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,12210,44,16,84107,0.47,53,90,88,52.43,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,16236,69,131,91369,3.58,79,75,40,40.2,Low,Synthetic
+Jayanagar,Salon / Beauty Center,21264,78,94,98064,0.21,88,82,76,51.33,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,23751,38,180,42270,1.52,69,57,32,58.06,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,18157,62,230,15626,2.72,29,30,76,51.98,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,17844,56,247,86710,0.35,73,49,47,55.23,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,15780,21,27,91790,1.48,38,89,22,48.42,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,20935,67,162,90462,1.85,74,76,63,55.91,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,24436,56,192,34486,2.03,96,97,100,75.25,High,Synthetic
+Jayanagar,Salon / Beauty Center,12695,7,127,53662,3.09,78,44,92,62.47,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,8378,47,11,74013,3.5,36,93,58,41.7,Low,Synthetic
+Jayanagar,Salon / Beauty Center,10567,45,141,50885,0.73,49,100,87,57.05,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,23159,29,210,63012,2.62,76,36,36,60.56,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,12400,1,88,70655,2.22,34,52,43,54.53,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,6044,35,223,72186,1.78,95,44,84,54.69,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,21929,47,132,74559,3.28,37,70,51,47.47,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,11194,18,176,41777,4.35,73,58,90,54.93,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,18266,9,210,43213,0.71,70,59,24,66.33,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,9517,30,13,83846,4.84,44,52,95,39.98,Low,Synthetic
+Jayanagar,Salon / Beauty Center,15422,23,57,25180,0.35,87,25,26,59.35,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,9470,12,115,50507,1.04,31,42,85,65.17,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,18457,17,205,88102,3.44,53,94,64,53.3,Medium,Synthetic
+Jayanagar,Salon / Beauty Center,16601,51,135,20609,4.22,97,94,69,54.5,Medium,Synthetic
+Jayanagar,Electronics Store,22645,74,60,25890,0.44,67,41,26,50.32,Medium,Synthetic
+Jayanagar,Electronics Store,13484,66,13,18743,1.27,25,93,93,54.15,Medium,Synthetic
+Jayanagar,Electronics Store,14775,4,161,78490,2.15,87,64,67,62.44,Medium,Synthetic
+Jayanagar,Electronics Store,12501,35,232,15127,2.58,59,92,65,62.06,Medium,Synthetic
+Jayanagar,Electronics Store,9904,36,241,66512,0.4,21,76,85,59.01,Medium,Synthetic
+Jayanagar,Electronics Store,17107,43,227,14581,1.59,74,91,79,76.8,High,Synthetic
+Jayanagar,Electronics Store,18419,39,22,22024,0.61,31,37,93,59.09,Medium,Synthetic
+Jayanagar,Electronics Store,24341,45,44,49122,1.38,30,95,75,69.72,Medium,Synthetic
+Jayanagar,Electronics Store,11746,72,40,52522,2.3,85,94,60,49.15,Medium,Synthetic
+Jayanagar,Electronics Store,14686,32,29,80321,1.36,44,36,90,48.85,Medium,Synthetic
+Jayanagar,Electronics Store,14565,23,100,65997,3.9,21,96,56,44.07,Low,Synthetic
+Jayanagar,Electronics Store,9408,22,123,38756,0.27,57,61,83,57.54,Medium,Synthetic
+Jayanagar,Electronics Store,6735,44,91,38639,0.61,54,52,21,46.45,Medium,Synthetic
+Jayanagar,Electronics Store,22316,41,217,99876,3.28,72,69,39,49.61,Medium,Synthetic
+Jayanagar,Electronics Store,7385,27,163,22367,2.28,66,77,78,61.1,Medium,Synthetic
+Jayanagar,Electronics Store,14789,69,224,37563,3.09,34,50,67,47.65,Medium,Synthetic
+Jayanagar,Electronics Store,8732,51,48,59997,1.39,83,53,30,41.94,Low,Synthetic
+Jayanagar,Electronics Store,10240,58,212,76922,1.19,58,70,85,54.58,Medium,Synthetic
+Jayanagar,Electronics Store,6658,35,168,73720,3.78,86,87,70,54.84,Medium,Synthetic
+Jayanagar,Electronics Store,16161,64,211,86308,4.31,53,84,80,48.01,Medium,Synthetic
+Jayanagar,Electronics Store,23950,70,249,70032,4.91,24,85,45,45.1,Medium,Synthetic
+Jayanagar,Electronics Store,13799,5,24,21472,0.16,22,76,66,66.19,Medium,Synthetic
+Jayanagar,Electronics Store,20532,66,191,55162,4.12,77,86,65,57.74,Medium,Synthetic
+Jayanagar,Electronics Store,9336,11,209,80359,2.29,90,88,40,60.7,Medium,Synthetic
+Jayanagar,Electronics Store,13663,20,17,51993,3.07,28,39,45,42.11,Low,Synthetic
+Malleshwaram,Cafe / Restaurant,24981,36,93,72277,2.07,90,47,60,60.88,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,24852,73,100,65463,4.84,48,75,68,44.27,Low,Synthetic
+Malleshwaram,Cafe / Restaurant,10058,72,224,84233,1.11,55,51,77,43.09,Low,Synthetic
+Malleshwaram,Cafe / Restaurant,18196,27,138,93494,3.18,71,49,73,49.47,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,17436,67,15,45332,3.93,21,100,41,45.14,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,13583,65,202,72624,2.22,22,70,74,45.24,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,13546,64,245,71180,4.58,84,48,93,45.85,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,20335,16,68,78830,3.45,30,89,98,66.06,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,21987,43,78,76994,0.91,94,65,69,54.42,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,24171,7,58,23801,1.06,67,26,90,75.49,High,Synthetic
+Malleshwaram,Cafe / Restaurant,16191,4,29,22737,3.45,51,52,96,61.2,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,9231,30,63,96003,0.8,99,82,84,52.41,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,17951,51,31,32183,3.25,72,60,87,61.28,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,6113,21,109,36363,3.18,58,53,73,46.6,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,12793,17,89,49534,0.79,97,73,21,65.14,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,24409,58,248,92818,4.01,60,40,23,48.65,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,24619,29,144,36845,2.25,24,56,93,67.92,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,8067,18,18,44317,4.57,97,49,34,42.54,Low,Synthetic
+Malleshwaram,Cafe / Restaurant,10533,42,166,92206,1.94,76,73,63,51.37,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,8207,57,239,69804,1.4,97,76,56,50.65,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,8615,44,107,34763,3.19,88,55,64,48.03,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,22635,29,140,98489,1.95,49,33,45,49.75,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,16673,62,12,73869,2.62,70,37,63,47.37,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,14591,77,119,58660,2.28,63,98,75,51.9,Medium,Synthetic
+Malleshwaram,Cafe / Restaurant,23838,34,238,26621,0.45,89,79,86,78.14,High,Synthetic
+Malleshwaram,Retail Shop,10269,24,62,66469,4.0,77,73,61,50.51,Medium,Synthetic
+Malleshwaram,Retail Shop,14955,66,20,71238,4.56,37,76,65,32.22,Low,Synthetic
+Malleshwaram,Retail Shop,6013,30,17,87361,0.9,92,44,44,47.69,Medium,Synthetic
+Malleshwaram,Retail Shop,13490,5,84,18862,0.19,46,64,45,70.32,High,Synthetic
+Malleshwaram,Retail Shop,10825,29,176,98184,0.81,35,47,26,32.44,Low,Synthetic
+Malleshwaram,Retail Shop,24319,12,81,51643,0.44,68,50,24,68.78,Medium,Synthetic
+Malleshwaram,Retail Shop,14912,23,106,79306,3.54,49,50,35,44.57,Low,Synthetic
+Malleshwaram,Retail Shop,15980,39,170,97657,2.26,57,26,25,40.74,Low,Synthetic
+Malleshwaram,Retail Shop,15479,18,164,17544,2.51,93,41,81,73.26,High,Synthetic
+Malleshwaram,Retail Shop,23641,70,215,92021,2.37,45,63,31,47.36,Medium,Synthetic
+Malleshwaram,Retail Shop,9782,48,208,28984,3.15,29,79,28,54.98,Medium,Synthetic
+Malleshwaram,Retail Shop,4078,52,139,51832,4.64,70,82,53,38.94,Low,Synthetic
+Malleshwaram,Retail Shop,14871,59,79,27791,3.19,38,91,92,49.71,Medium,Synthetic
+Malleshwaram,Retail Shop,17683,76,142,57890,1.3,87,93,20,54.13,Medium,Synthetic
+Malleshwaram,Retail Shop,9643,77,50,66401,0.22,99,72,43,50.22,Medium,Synthetic
+Malleshwaram,Retail Shop,7170,22,109,21718,4.02,48,59,34,42.79,Low,Synthetic
+Malleshwaram,Retail Shop,9839,74,186,25503,3.54,21,48,85,39.25,Low,Synthetic
+Malleshwaram,Retail Shop,5906,26,38,70701,3.74,67,89,72,41.11,Low,Synthetic
+Malleshwaram,Retail Shop,21800,38,96,41504,2.06,89,68,47,66.61,Medium,Synthetic
+Malleshwaram,Retail Shop,15692,17,136,24666,0.53,22,100,95,71.43,High,Synthetic
+Malleshwaram,Retail Shop,6262,30,78,95028,4.77,85,55,52,32.26,Low,Synthetic
+Malleshwaram,Retail Shop,7677,46,174,59218,4.81,50,35,21,34.55,Low,Synthetic
+Malleshwaram,Retail Shop,6739,45,94,35806,4.11,39,49,21,34.85,Low,Synthetic
+Malleshwaram,Retail Shop,13848,32,35,12453,1.68,86,25,70,58.18,Medium,Synthetic
+Malleshwaram,Retail Shop,4920,57,124,14017,3.17,96,81,66,53.07,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,17237,3,133,31252,4.68,88,57,91,76.17,High,Synthetic
+Malleshwaram,Gym / Fitness Center,17809,76,214,69196,0.1,65,71,63,53.09,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,21032,50,86,72091,1.84,34,60,82,48.67,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,23785,24,219,17424,1.99,23,93,79,68.19,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,13215,29,160,37008,0.49,40,41,42,57.98,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,8700,20,167,85396,2.52,96,47,81,53.12,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,11910,18,82,86656,4.68,73,41,38,45.96,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,12804,34,93,41592,0.62,93,35,35,52.93,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,13980,7,25,58073,1.52,31,59,40,53.93,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,14000,32,50,93029,2.34,39,49,85,47.79,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,5672,53,70,60037,2.15,89,79,20,37.49,Low,Synthetic
+Malleshwaram,Gym / Fitness Center,13336,14,191,15782,1.83,50,83,48,75.33,High,Synthetic
+Malleshwaram,Gym / Fitness Center,23049,17,151,92103,1.25,77,48,82,64.15,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,12529,18,46,38393,2.52,83,96,39,61.35,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,9993,30,62,64066,1.98,30,55,68,47.07,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,16886,19,149,41086,3.37,56,53,45,63.24,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,7435,2,93,40942,3.23,69,62,42,55.57,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,6971,66,132,87164,0.68,37,79,69,44.17,Low,Synthetic
+Malleshwaram,Gym / Fitness Center,24365,74,236,86632,4.74,82,100,86,56.7,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,9330,48,95,58228,0.86,69,47,32,48.96,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,13475,78,209,44376,4.93,40,82,37,39.12,Low,Synthetic
+Malleshwaram,Gym / Fitness Center,24991,43,104,38849,4.44,97,91,31,59.33,Medium,Synthetic
+Malleshwaram,Gym / Fitness Center,7083,66,11,29806,3.01,100,31,47,34.74,Low,Synthetic
+Malleshwaram,Gym / Fitness Center,13631,70,124,50231,0.76,43,58,59,43.87,Low,Synthetic
+Malleshwaram,Gym / Fitness Center,21454,79,212,15285,0.86,84,42,63,59.72,Medium,Synthetic
+Malleshwaram,Pharmacy,16962,42,37,88154,1.75,43,32,72,49.13,Medium,Synthetic
+Malleshwaram,Pharmacy,11642,5,234,50192,1.41,91,87,66,64.73,Medium,Synthetic
+Malleshwaram,Pharmacy,18182,78,62,27089,4.78,44,31,47,31.61,Low,Synthetic
+Malleshwaram,Pharmacy,5220,67,117,71758,1.96,39,35,86,41.31,Low,Synthetic
+Malleshwaram,Pharmacy,6413,34,115,14105,2.55,60,72,64,50.23,Medium,Synthetic
+Malleshwaram,Pharmacy,20617,25,125,77131,2.83,58,51,93,63.1,Medium,Synthetic
+Malleshwaram,Pharmacy,4212,78,170,57807,0.69,49,46,22,24.03,Low,Synthetic
+Malleshwaram,Pharmacy,9988,75,185,59819,4.91,59,26,92,33.34,Low,Synthetic
+Malleshwaram,Pharmacy,4737,55,209,99908,3.15,25,43,46,36.33,Low,Synthetic
+Malleshwaram,Pharmacy,17863,32,206,90608,2.22,76,66,28,51.31,Medium,Synthetic
+Malleshwaram,Pharmacy,21606,79,190,58389,4.35,44,91,81,44.69,Low,Synthetic
+Malleshwaram,Pharmacy,6989,24,235,95245,0.19,67,32,58,54.78,Medium,Synthetic
+Malleshwaram,Pharmacy,8133,8,63,41092,1.94,59,58,98,59.85,Medium,Synthetic
+Malleshwaram,Pharmacy,22302,17,170,63507,3.67,28,57,79,60.59,Medium,Synthetic
+Malleshwaram,Pharmacy,22105,69,19,48613,3.13,32,89,39,41.28,Low,Synthetic
+Malleshwaram,Pharmacy,17112,46,145,56553,3.38,86,35,31,46.98,Medium,Synthetic
+Malleshwaram,Pharmacy,17322,62,127,81795,2.59,97,80,20,48.57,Medium,Synthetic
+Malleshwaram,Pharmacy,8151,4,39,31276,3.39,87,76,99,62.89,Medium,Synthetic
+Malleshwaram,Pharmacy,19799,58,102,44959,0.14,31,31,74,57.26,Medium,Synthetic
+Malleshwaram,Pharmacy,8326,62,249,37032,2.35,96,79,55,60.8,Medium,Synthetic
+Malleshwaram,Pharmacy,12817,28,197,97914,3.2,98,57,39,51.63,Medium,Synthetic
+Malleshwaram,Pharmacy,17993,12,110,95656,1.04,33,49,96,60.43,Medium,Synthetic
+Malleshwaram,Pharmacy,5764,54,142,80906,0.24,66,95,57,53.1,Medium,Synthetic
+Malleshwaram,Pharmacy,9599,67,71,64772,4.18,27,76,52,33.57,Low,Synthetic
+Malleshwaram,Pharmacy,10895,8,160,79067,4.3,83,44,35,41.78,Low,Synthetic
+Malleshwaram,Salon / Beauty Center,9264,19,129,23767,0.22,57,77,50,66.26,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,14150,42,185,58936,3.7,98,30,62,49.0,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,24595,35,235,38853,2.98,81,93,35,64.35,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,23187,31,244,45161,4.42,95,94,39,69.18,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,4132,23,146,80921,0.72,99,78,65,50.3,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,6835,51,87,16134,0.81,53,99,52,57.38,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,16062,54,181,17153,0.34,81,47,65,59.35,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,14940,3,175,13067,3.49,49,41,78,65.92,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,19753,18,54,31563,1.85,81,83,68,72.59,High,Synthetic
+Malleshwaram,Salon / Beauty Center,12458,70,132,32968,3.6,53,41,73,47.95,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,18539,40,28,98338,2.46,83,71,25,45.71,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,6739,48,180,54495,3.6,31,34,90,38.53,Low,Synthetic
+Malleshwaram,Salon / Beauty Center,21261,55,138,24336,4.83,56,48,74,51.08,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,6272,71,131,65015,0.15,31,59,82,43.09,Low,Synthetic
+Malleshwaram,Salon / Beauty Center,7523,57,150,50889,4.62,99,36,53,40.48,Low,Synthetic
+Malleshwaram,Salon / Beauty Center,11869,13,40,99937,1.13,76,99,53,61.42,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,14086,68,84,93948,3.98,35,63,96,38.04,Low,Synthetic
+Malleshwaram,Salon / Beauty Center,7602,71,111,19244,4.31,60,99,89,49.02,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,20956,26,80,81586,3.38,48,90,38,54.92,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,7896,37,70,70971,2.64,92,49,84,48.73,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,24229,18,19,94011,3.78,84,89,71,62.68,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,20988,36,238,19065,1.28,44,26,24,52.5,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,5699,6,158,91332,1.77,45,79,58,52.3,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,5363,29,229,78055,2.89,38,90,98,50.93,Medium,Synthetic
+Malleshwaram,Salon / Beauty Center,4597,74,219,18256,2.41,52,29,96,42.31,Low,Synthetic
+Malleshwaram,Electronics Store,19511,67,248,38205,2.01,82,36,47,59.49,Medium,Synthetic
+Malleshwaram,Electronics Store,20043,43,154,31239,2.71,76,88,94,56.42,Medium,Synthetic
+Malleshwaram,Electronics Store,5353,70,109,81847,3.93,42,51,77,38.06,Low,Synthetic
+Malleshwaram,Electronics Store,12940,37,143,32800,0.6,41,49,98,66.75,Medium,Synthetic
+Malleshwaram,Electronics Store,18511,70,236,97184,4.11,55,82,95,45.92,Medium,Synthetic
+Malleshwaram,Electronics Store,24389,11,21,47825,3.53,30,60,71,64.96,Medium,Synthetic
+Malleshwaram,Electronics Store,15688,58,193,83319,2.34,50,79,29,44.38,Low,Synthetic
+Malleshwaram,Electronics Store,6433,15,12,23586,0.54,94,39,29,50.9,Medium,Synthetic
+Malleshwaram,Electronics Store,16881,2,113,19833,0.83,61,29,30,64.16,Medium,Synthetic
+Malleshwaram,Electronics Store,13280,34,129,98784,4.06,39,85,40,38.68,Low,Synthetic
+Malleshwaram,Electronics Store,21173,20,91,46077,1.47,43,38,55,65.12,Medium,Synthetic
+Malleshwaram,Electronics Store,15716,75,33,47771,0.75,96,48,96,54.45,Medium,Synthetic
+Malleshwaram,Electronics Store,20805,65,84,37762,1.62,56,82,73,50.87,Medium,Synthetic
+Malleshwaram,Electronics Store,14139,29,180,67283,4.01,33,100,66,48.69,Medium,Synthetic
+Malleshwaram,Electronics Store,5439,26,124,65632,1.84,21,54,90,42.74,Low,Synthetic
+Malleshwaram,Electronics Store,20691,9,31,28493,4.11,92,77,59,67.82,Medium,Synthetic
+Malleshwaram,Electronics Store,6047,22,155,72107,0.74,58,97,25,42.87,Low,Synthetic
+Malleshwaram,Electronics Store,19407,7,217,98912,4.45,56,88,81,59.98,Medium,Synthetic
+Malleshwaram,Electronics Store,17085,20,197,13105,0.15,93,48,23,68.0,Medium,Synthetic
+Malleshwaram,Electronics Store,6691,77,98,78961,4.45,85,72,52,35.03,Low,Synthetic
+Malleshwaram,Electronics Store,23448,10,74,27401,3.43,79,39,76,71.47,High,Synthetic
+Malleshwaram,Electronics Store,9956,22,73,84232,2.98,75,47,44,43.7,Low,Synthetic
+Malleshwaram,Electronics Store,7262,9,69,84572,1.47,70,84,89,54.99,Medium,Synthetic
+Malleshwaram,Electronics Store,11972,31,235,62617,4.88,55,32,45,44.46,Low,Synthetic
+Malleshwaram,Electronics Store,24925,76,217,78354,1.51,61,53,29,40.78,Low,Synthetic
+HSR Layout,Cafe / Restaurant,21513,39,219,35296,2.46,84,39,23,57.58,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,19702,34,133,24397,4.27,80,34,73,54.35,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,14067,65,86,91360,3.47,34,52,42,30.86,Low,Synthetic
+HSR Layout,Cafe / Restaurant,6956,14,148,67612,2.22,50,97,29,51.08,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,18855,21,214,18458,0.98,89,54,36,75.41,High,Synthetic
+HSR Layout,Cafe / Restaurant,11297,37,138,15203,2.72,44,27,28,51.26,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,13173,76,211,12801,4.88,41,94,21,44.12,Low,Synthetic
+HSR Layout,Cafe / Restaurant,13972,72,185,48145,0.54,72,68,27,46.67,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,7401,46,78,31569,2.01,57,35,62,45.49,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,11612,61,79,93741,4.29,36,43,70,27.19,Low,Synthetic
+HSR Layout,Cafe / Restaurant,5861,63,230,32431,1.45,94,95,45,55.16,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,21064,23,56,84204,1.64,85,40,92,60.74,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,12859,77,172,86408,0.51,51,78,91,46.05,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,17541,54,177,67673,1.4,84,98,74,53.51,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,5155,10,184,79853,1.11,64,41,99,64.14,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,11848,67,38,66545,4.19,33,58,68,34.57,Low,Synthetic
+HSR Layout,Cafe / Restaurant,19669,31,67,80711,0.12,49,49,82,62.42,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,4002,67,245,52958,1.85,36,38,28,36.07,Low,Synthetic
+HSR Layout,Cafe / Restaurant,19037,21,213,52612,0.39,39,59,72,63.15,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,10791,4,164,63883,3.12,66,68,67,57.12,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,13967,52,93,51419,3.12,96,97,23,57.24,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,12959,26,111,73260,2.61,77,43,96,59.66,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,15340,58,37,45012,1.98,96,82,92,60.46,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,11310,33,154,22391,0.77,32,86,66,64.75,Medium,Synthetic
+HSR Layout,Cafe / Restaurant,16911,16,203,91071,4.55,22,36,35,40.06,Low,Synthetic
+HSR Layout,Retail Shop,22608,63,199,84682,2.59,52,54,78,58.23,Medium,Synthetic
+HSR Layout,Retail Shop,15595,15,91,80187,0.72,97,69,81,62.02,Medium,Synthetic
+HSR Layout,Retail Shop,4745,46,73,72645,3.25,63,99,48,40.89,Low,Synthetic
+HSR Layout,Retail Shop,5725,52,191,58930,1.05,39,57,91,42.03,Low,Synthetic
+HSR Layout,Retail Shop,19160,5,64,24120,4.04,67,85,34,61.68,Medium,Synthetic
+HSR Layout,Retail Shop,23093,3,111,56813,4.49,86,34,68,63.06,Medium,Synthetic
+HSR Layout,Retail Shop,19928,27,212,46416,1.91,76,39,95,70.28,High,Synthetic
+HSR Layout,Retail Shop,23613,20,174,81672,1.47,21,47,42,56.36,Medium,Synthetic
+HSR Layout,Retail Shop,24067,65,155,88850,3.98,59,79,98,53.98,Medium,Synthetic
+HSR Layout,Retail Shop,19659,68,170,65911,0.85,29,44,94,49.42,Medium,Synthetic
+HSR Layout,Retail Shop,9611,63,93,36843,2.99,30,88,92,50.49,Medium,Synthetic
+HSR Layout,Retail Shop,10449,62,98,85058,3.67,68,38,20,31.21,Low,Synthetic
+HSR Layout,Retail Shop,16676,19,32,16725,2.37,35,57,21,53.03,Medium,Synthetic
+HSR Layout,Retail Shop,12205,1,99,27704,4.72,66,68,99,63.42,Medium,Synthetic
+HSR Layout,Retail Shop,15662,72,171,73313,0.86,91,47,87,53.29,Medium,Synthetic
+HSR Layout,Retail Shop,4909,63,126,34620,0.99,82,88,51,45.88,Medium,Synthetic
+HSR Layout,Retail Shop,15457,19,161,50636,3.3,78,39,29,46.11,Medium,Synthetic
+HSR Layout,Retail Shop,11464,27,197,37651,3.8,84,41,63,51.64,Medium,Synthetic
+HSR Layout,Retail Shop,23420,47,47,49606,4.46,95,77,97,57.84,Medium,Synthetic
+HSR Layout,Retail Shop,11083,74,63,70643,1.63,26,82,29,37.9,Low,Synthetic
+HSR Layout,Retail Shop,21565,37,128,99793,3.47,71,80,95,57.5,Medium,Synthetic
+HSR Layout,Retail Shop,22158,9,240,41545,3.53,42,87,80,77.8,High,Synthetic
+HSR Layout,Retail Shop,17746,58,227,13245,3.85,41,81,81,58.78,Medium,Synthetic
+HSR Layout,Retail Shop,9105,71,99,91431,3.39,42,56,76,36.36,Low,Synthetic
+HSR Layout,Retail Shop,16638,52,43,95106,3.17,25,56,71,43.12,Low,Synthetic
+HSR Layout,Gym / Fitness Center,9344,28,232,55988,4.46,83,43,34,44.37,Low,Synthetic
+HSR Layout,Gym / Fitness Center,16755,38,35,50097,3.18,70,97,72,62.76,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,7770,70,87,93081,1.28,32,67,95,42.14,Low,Synthetic
+HSR Layout,Gym / Fitness Center,11378,24,35,32140,4.96,48,41,87,48.7,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,23436,61,132,76860,2.48,44,91,21,49.65,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,6586,18,191,57312,0.96,22,92,60,46.07,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,19012,51,24,54503,1.4,75,71,29,53.31,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,22642,31,189,79321,4.72,42,72,59,46.77,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,14245,38,178,65450,0.63,36,95,66,56.59,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,23797,24,230,59176,2.78,65,42,62,61.14,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,14447,33,102,89947,1.49,78,55,47,60.5,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,20310,14,195,91064,2.23,43,88,90,62.44,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,11523,24,164,93060,0.33,58,87,98,61.84,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,13372,1,244,32874,1.67,81,60,75,70.85,High,Synthetic
+HSR Layout,Gym / Fitness Center,23054,21,150,36714,1.7,20,94,96,76.86,High,Synthetic
+HSR Layout,Gym / Fitness Center,17092,47,100,37457,2.29,66,93,77,58.09,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,17091,32,235,64137,2.21,100,54,40,60.67,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,18574,33,47,55032,0.36,78,57,60,60.79,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,19517,57,186,17167,1.49,66,80,84,67.67,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,4256,32,243,56674,0.88,79,53,69,53.88,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,5975,17,197,87117,1.45,36,73,95,52.6,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,17866,57,59,74403,2.07,56,70,61,48.01,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,8512,11,157,86519,4.95,99,89,92,57.28,Medium,Synthetic
+HSR Layout,Gym / Fitness Center,16888,61,24,85309,4.09,93,85,77,41.05,Low,Synthetic
+HSR Layout,Gym / Fitness Center,7614,12,55,89214,1.15,72,85,65,60.03,Medium,Synthetic
+HSR Layout,Pharmacy,17942,17,246,60458,1.41,41,67,46,62.72,Medium,Synthetic
+HSR Layout,Pharmacy,13840,35,141,13359,2.77,45,43,100,61.99,Medium,Synthetic
+HSR Layout,Pharmacy,22880,44,109,56458,4.26,36,64,57,55.18,Medium,Synthetic
+HSR Layout,Pharmacy,17908,61,146,90287,4.51,21,96,62,34.86,Low,Synthetic
+HSR Layout,Pharmacy,14576,67,167,74451,1.33,26,33,73,39.36,Low,Synthetic
+HSR Layout,Pharmacy,9969,61,96,47057,1.69,52,35,52,47.67,Medium,Synthetic
+HSR Layout,Pharmacy,20158,48,135,89870,2.84,72,43,100,49.8,Medium,Synthetic
+HSR Layout,Pharmacy,11641,6,116,12840,0.42,31,47,73,59.58,Medium,Synthetic
+HSR Layout,Pharmacy,13187,59,173,16311,0.96,36,63,87,52.8,Medium,Synthetic
+HSR Layout,Pharmacy,16598,45,213,14580,1.59,71,67,71,62.1,Medium,Synthetic
+HSR Layout,Pharmacy,4671,10,73,38855,2.27,87,52,72,55.11,Medium,Synthetic
+HSR Layout,Pharmacy,5074,53,13,90414,0.59,86,98,66,46.98,Medium,Synthetic
+HSR Layout,Pharmacy,6176,35,73,96153,1.13,20,27,86,41.26,Low,Synthetic
+HSR Layout,Pharmacy,10610,29,98,90947,0.72,23,38,52,48.83,Medium,Synthetic
+HSR Layout,Pharmacy,11400,23,205,55284,4.18,45,65,57,47.81,Medium,Synthetic
+HSR Layout,Pharmacy,8695,11,242,26318,1.52,86,89,80,72.85,High,Synthetic
+HSR Layout,Pharmacy,11034,14,53,16239,2.83,31,79,70,64.68,Medium,Synthetic
+HSR Layout,Pharmacy,15109,39,170,23936,4.11,89,55,99,62.5,Medium,Synthetic
+HSR Layout,Pharmacy,21248,77,61,50985,2.77,96,27,78,48.84,Medium,Synthetic
+HSR Layout,Pharmacy,14097,52,171,72848,2.25,32,93,86,53.3,Medium,Synthetic
+HSR Layout,Pharmacy,10806,30,197,95551,0.48,26,93,91,58.14,Medium,Synthetic
+HSR Layout,Pharmacy,8019,4,171,96932,0.71,88,62,45,52.0,Medium,Synthetic
+HSR Layout,Pharmacy,5184,33,209,71155,1.2,64,86,50,54.55,Medium,Synthetic
+HSR Layout,Pharmacy,21907,42,21,49696,3.96,22,33,70,51.56,Medium,Synthetic
+HSR Layout,Pharmacy,9873,24,210,58732,2.19,40,43,66,55.56,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,24896,32,201,48948,3.97,91,66,28,65.94,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,8370,20,243,13756,0.33,87,27,70,64.7,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,8535,64,17,29118,1.35,46,69,23,47.73,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,9591,37,233,39206,3.63,74,36,30,48.71,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,14583,72,41,87320,4.12,38,80,33,28.61,Low,Synthetic
+HSR Layout,Salon / Beauty Center,14559,62,77,84154,4.67,62,83,71,45.93,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,20480,19,158,50165,0.11,92,51,36,59.31,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,22321,33,10,81835,1.04,74,29,78,56.79,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,11953,49,91,53792,4.95,80,32,22,42.03,Low,Synthetic
+HSR Layout,Salon / Beauty Center,13910,40,220,80945,3.95,52,42,76,43.28,Low,Synthetic
+HSR Layout,Salon / Beauty Center,10142,38,178,24109,1.63,82,56,57,56.65,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,10684,16,85,29040,4.64,32,96,75,56.91,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,10312,3,236,41048,3.44,75,33,69,61.71,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,23628,17,65,96193,4.44,88,38,86,54.15,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,7094,61,160,95509,4.48,96,40,60,27.88,Low,Synthetic
+HSR Layout,Salon / Beauty Center,17055,49,210,79507,3.0,69,67,96,53.33,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,22055,59,202,85168,1.03,96,65,26,57.94,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,10212,30,82,89061,1.46,99,90,29,54.01,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,19247,37,216,84012,3.87,66,96,62,56.7,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,23977,31,106,80684,1.41,22,91,90,64.29,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,23171,35,24,19399,3.72,49,99,62,60.43,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,21856,29,83,50619,4.42,38,27,55,47.3,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,24622,41,244,16722,4.24,99,60,96,67.39,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,23907,47,63,49763,2.45,28,77,96,65.8,Medium,Synthetic
+HSR Layout,Salon / Beauty Center,4502,60,55,43541,2.95,56,47,46,33.44,Low,Synthetic
+HSR Layout,Electronics Store,24156,77,188,62481,2.1,20,64,51,49.76,Medium,Synthetic
+HSR Layout,Electronics Store,9141,66,49,46341,0.57,94,79,70,58.79,Medium,Synthetic
+HSR Layout,Electronics Store,19815,9,99,84577,0.53,89,83,38,76.98,High,Synthetic
+HSR Layout,Electronics Store,5095,14,33,26123,0.9,70,56,69,54.42,Medium,Synthetic
+HSR Layout,Electronics Store,5212,66,51,90784,0.73,95,33,55,37.78,Low,Synthetic
+HSR Layout,Electronics Store,14715,38,170,38797,1.38,80,42,89,61.07,Medium,Synthetic
+HSR Layout,Electronics Store,11855,72,22,28571,4.35,90,41,69,43.42,Low,Synthetic
+HSR Layout,Electronics Store,10431,22,64,43218,0.6,66,86,73,58.97,Medium,Synthetic
+HSR Layout,Electronics Store,12953,35,211,71858,3.19,65,59,64,55.03,Medium,Synthetic
+HSR Layout,Electronics Store,8233,66,207,20007,1.51,63,84,66,53.62,Medium,Synthetic
+HSR Layout,Electronics Store,5234,46,95,43996,3.43,38,84,52,45.61,Medium,Synthetic
+HSR Layout,Electronics Store,8355,3,100,95251,1.1,47,94,89,56.6,Medium,Synthetic
+HSR Layout,Electronics Store,20864,16,33,60068,4.93,96,71,95,62.23,Medium,Synthetic
+HSR Layout,Electronics Store,22756,31,101,78333,2.58,46,50,79,45.92,Medium,Synthetic
+HSR Layout,Electronics Store,5892,59,133,70241,4.71,80,87,37,32.26,Low,Synthetic
+HSR Layout,Electronics Store,8833,39,80,53833,2.83,95,59,30,50.7,Medium,Synthetic
+HSR Layout,Electronics Store,12216,48,169,35123,2.13,23,62,82,44.84,Low,Synthetic
+HSR Layout,Electronics Store,16288,3,238,88095,1.98,97,86,54,64.63,Medium,Synthetic
+HSR Layout,Electronics Store,8023,77,137,84959,4.18,35,42,26,23.34,Low,Synthetic
+HSR Layout,Electronics Store,23421,42,242,42990,4.2,56,90,74,62.21,Medium,Synthetic
+HSR Layout,Electronics Store,15882,56,181,78267,4.87,93,42,87,45.82,Medium,Synthetic
+HSR Layout,Electronics Store,11624,7,123,33767,3.9,26,65,59,56.64,Medium,Synthetic
+HSR Layout,Electronics Store,9229,52,159,35555,2.0,25,62,45,49.63,Medium,Synthetic
+HSR Layout,Electronics Store,7466,17,225,13115,2.86,96,59,35,63.84,Medium,Synthetic
+HSR Layout,Electronics Store,8975,62,121,41430,0.47,64,59,47,47.63,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,23814,9,213,34414,2.14,54,75,74,74.66,High,Synthetic
+Marathahalli,Cafe / Restaurant,20626,25,224,60591,4.42,57,35,86,64.71,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,5550,1,144,98576,1.3,48,50,64,48.87,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,13696,71,149,73855,0.28,70,60,86,46.24,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,19217,27,120,48519,0.93,33,93,98,65.45,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,14268,61,207,89518,2.43,42,34,73,39.54,Low,Synthetic
+Marathahalli,Cafe / Restaurant,8008,49,154,12496,4.53,64,54,63,49.35,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,13884,2,173,61810,0.41,98,62,22,66.23,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,8350,66,104,13883,5.0,62,86,90,41.68,Low,Synthetic
+Marathahalli,Cafe / Restaurant,13638,68,137,50492,0.73,74,54,48,51.33,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,10553,26,46,84666,0.51,72,54,22,47.99,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,11548,49,130,63016,3.81,96,78,88,56.15,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,6268,27,17,39167,2.25,29,37,82,44.96,Low,Synthetic
+Marathahalli,Cafe / Restaurant,21671,29,104,43645,1.22,95,35,21,65.2,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,15953,41,203,81506,1.13,87,49,49,50.22,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,17465,23,193,48787,3.81,21,55,46,47.89,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,16929,78,13,95184,3.22,54,96,85,38.61,Low,Synthetic
+Marathahalli,Cafe / Restaurant,24971,21,243,35241,1.32,51,44,93,77.12,High,Synthetic
+Marathahalli,Cafe / Restaurant,5384,52,124,77453,1.15,80,96,90,48.16,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,14482,63,30,12493,3.91,29,51,31,46.37,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,19551,26,24,83200,0.59,66,59,84,59.89,Medium,Synthetic
+Marathahalli,Cafe / Restaurant,5055,63,21,93214,4.03,20,75,89,28.73,Low,Synthetic
+Marathahalli,Cafe / Restaurant,9255,68,142,65333,2.8,42,92,71,34.4,Low,Synthetic
+Marathahalli,Cafe / Restaurant,23476,56,114,98593,2.46,68,40,36,40.57,Low,Synthetic
+Marathahalli,Cafe / Restaurant,11507,75,43,66176,3.69,82,65,77,46.04,Medium,Synthetic
+Marathahalli,Retail Shop,12974,42,102,13750,1.87,79,33,55,63.67,Medium,Synthetic
+Marathahalli,Retail Shop,13679,36,57,83474,4.76,89,98,99,61.81,Medium,Synthetic
+Marathahalli,Retail Shop,21669,26,84,88764,4.58,93,84,82,54.03,Medium,Synthetic
+Marathahalli,Retail Shop,12000,52,244,25273,4.94,33,96,87,47.82,Medium,Synthetic
+Marathahalli,Retail Shop,17145,50,23,74457,1.6,62,66,100,52.59,Medium,Synthetic
+Marathahalli,Retail Shop,9741,22,77,40690,3.73,92,43,35,56.38,Medium,Synthetic
+Marathahalli,Retail Shop,18986,39,114,19960,1.76,49,69,80,66.23,Medium,Synthetic
+Marathahalli,Retail Shop,23762,9,213,91364,2.43,71,29,78,65.54,Medium,Synthetic
+Marathahalli,Retail Shop,13877,27,147,33711,0.69,80,75,29,62.42,Medium,Synthetic
+Marathahalli,Retail Shop,10461,5,131,67486,1.6,78,87,78,69.45,Medium,Synthetic
+Marathahalli,Retail Shop,4634,48,41,41362,0.99,93,58,55,49.37,Medium,Synthetic
+Marathahalli,Retail Shop,22602,16,68,81812,2.45,60,71,73,62.78,Medium,Synthetic
+Marathahalli,Retail Shop,20226,59,74,89339,4.03,38,79,76,43.42,Low,Synthetic
+Marathahalli,Retail Shop,5031,51,244,61492,0.38,66,79,83,51.0,Medium,Synthetic
+Marathahalli,Retail Shop,14172,10,40,50203,0.76,69,61,81,62.8,Medium,Synthetic
+Marathahalli,Retail Shop,23184,72,225,27052,1.52,99,35,25,56.64,Medium,Synthetic
+Marathahalli,Retail Shop,21753,64,10,28702,2.39,29,31,75,46.2,Medium,Synthetic
+Marathahalli,Retail Shop,19439,37,166,54235,3.68,67,50,31,53.95,Medium,Synthetic
+Marathahalli,Retail Shop,5973,34,16,45038,1.81,44,83,98,53.17,Medium,Synthetic
+Marathahalli,Retail Shop,8858,6,189,68151,2.31,51,77,78,63.51,Medium,Synthetic
+Marathahalli,Retail Shop,23340,62,63,22638,3.38,56,61,22,46.9,Medium,Synthetic
+Marathahalli,Retail Shop,22099,28,231,95729,1.1,55,57,83,60.15,Medium,Synthetic
+Marathahalli,Retail Shop,20295,7,66,90343,3.99,75,55,78,61.14,Medium,Synthetic
+Marathahalli,Retail Shop,19929,12,185,59006,4.1,82,98,58,65.0,Medium,Synthetic
+Marathahalli,Retail Shop,11494,54,131,26026,0.44,93,97,67,72.56,High,Synthetic
+Marathahalli,Gym / Fitness Center,12521,56,104,80232,3.08,53,69,28,41.16,Low,Synthetic
+Marathahalli,Gym / Fitness Center,24092,76,70,70105,3.39,31,98,39,47.39,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,15825,36,101,36151,1.03,31,64,73,55.9,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,17870,5,213,29045,0.98,38,55,86,75.51,High,Synthetic
+Marathahalli,Gym / Fitness Center,6729,26,150,73762,2.04,22,79,77,48.36,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,17798,24,81,40013,3.59,72,48,40,61.01,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,18179,40,112,22222,3.75,89,93,33,61.78,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,8796,4,81,41655,2.48,76,72,63,57.0,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,20044,33,40,73807,4.07,91,95,53,61.13,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,16970,73,83,12255,3.84,89,43,60,52.36,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,21861,59,98,67032,4.08,35,76,99,55.49,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,4347,38,178,49211,4.33,90,75,84,38.83,Low,Synthetic
+Marathahalli,Gym / Fitness Center,23422,30,194,72110,2.74,49,66,30,58.61,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,14482,18,86,33975,3.35,31,73,50,50.31,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,23477,44,101,99231,1.53,70,31,25,40.89,Low,Synthetic
+Marathahalli,Gym / Fitness Center,15966,69,190,75925,4.66,64,38,48,41.82,Low,Synthetic
+Marathahalli,Gym / Fitness Center,11813,7,46,37105,2.6,57,83,20,60.47,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,23033,52,17,31199,0.91,60,27,88,63.44,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,17965,26,120,99493,0.74,59,75,24,42.62,Low,Synthetic
+Marathahalli,Gym / Fitness Center,15244,3,237,51551,3.67,98,86,46,67.18,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,22164,45,114,92219,2.14,80,68,65,52.43,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,20078,49,136,19410,2.26,92,80,75,63.48,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,7598,57,67,98103,4.79,27,69,59,32.04,Low,Synthetic
+Marathahalli,Gym / Fitness Center,22676,53,240,52318,2.65,99,30,74,57.93,Medium,Synthetic
+Marathahalli,Gym / Fitness Center,22731,18,25,42099,0.94,78,46,66,67.5,Medium,Synthetic
+Marathahalli,Pharmacy,23451,9,33,33518,1.65,63,95,91,67.13,Medium,Synthetic
+Marathahalli,Pharmacy,12680,78,131,32043,0.52,80,64,46,46.38,Medium,Synthetic
+Marathahalli,Pharmacy,10487,21,170,43110,0.21,22,75,98,57.77,Medium,Synthetic
+Marathahalli,Pharmacy,21502,54,217,15017,3.36,78,30,48,57.09,Medium,Synthetic
+Marathahalli,Pharmacy,7196,51,187,16746,3.59,61,63,88,48.67,Medium,Synthetic
+Marathahalli,Pharmacy,19595,48,134,83736,2.47,39,39,88,49.16,Medium,Synthetic
+Marathahalli,Pharmacy,24598,37,143,29862,2.73,27,97,23,56.62,Medium,Synthetic
+Marathahalli,Pharmacy,22580,25,240,18050,2.83,60,61,76,70.07,High,Synthetic
+Marathahalli,Pharmacy,6593,76,106,38519,4.1,49,31,55,30.85,Low,Synthetic
+Marathahalli,Pharmacy,6989,23,149,50108,0.57,34,73,40,44.76,Low,Synthetic
+Marathahalli,Pharmacy,13923,27,224,77587,4.5,72,81,71,57.85,Medium,Synthetic
+Marathahalli,Pharmacy,11210,7,126,18057,2.49,24,99,99,62.61,Medium,Synthetic
+Marathahalli,Pharmacy,21662,2,247,52642,5.0,89,67,88,70.75,High,Synthetic
+Marathahalli,Pharmacy,7464,28,35,41265,3.87,92,73,36,53.98,Medium,Synthetic
+Marathahalli,Pharmacy,23560,69,24,17806,1.62,47,27,23,49.38,Medium,Synthetic
+Marathahalli,Pharmacy,9790,45,196,21004,2.76,56,89,28,47.94,Medium,Synthetic
+Marathahalli,Pharmacy,20052,31,35,22567,2.31,83,46,34,54.08,Medium,Synthetic
+Marathahalli,Pharmacy,24584,56,83,86387,1.91,72,77,20,54.8,Medium,Synthetic
+Marathahalli,Pharmacy,9703,12,163,39676,0.17,20,84,76,63.9,Medium,Synthetic
+Marathahalli,Pharmacy,6611,60,43,94015,1.46,79,50,91,44.67,Low,Synthetic
+Marathahalli,Pharmacy,23733,33,175,50015,4.89,54,91,29,62.81,Medium,Synthetic
+Marathahalli,Pharmacy,20494,24,86,52159,1.45,32,97,76,57.6,Medium,Synthetic
+Marathahalli,Pharmacy,22118,1,69,46674,4.81,63,58,44,62.13,Medium,Synthetic
+Marathahalli,Pharmacy,24611,64,125,71254,2.03,29,90,54,54.46,Medium,Synthetic
+Marathahalli,Pharmacy,6093,28,35,44009,2.61,74,90,86,51.37,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,16342,31,83,44274,3.58,47,43,39,48.91,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,22898,4,31,75350,1.19,53,68,61,69.66,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,22727,12,139,78554,1.54,100,91,90,71.31,High,Synthetic
+Marathahalli,Salon / Beauty Center,4976,10,95,60127,3.94,56,88,98,64.27,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,10229,40,110,15809,2.58,67,43,91,58.42,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,17136,21,139,29182,3.66,49,100,63,63.2,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,19883,51,130,33424,1.15,43,84,30,60.02,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,13983,72,201,46579,1.99,90,52,21,43.54,Low,Synthetic
+Marathahalli,Salon / Beauty Center,19224,43,17,84302,3.04,42,70,34,44.91,Low,Synthetic
+Marathahalli,Salon / Beauty Center,10975,52,173,91810,2.46,66,26,63,37.43,Low,Synthetic
+Marathahalli,Salon / Beauty Center,16260,64,218,92205,4.18,73,98,86,45.87,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,6456,48,176,90382,0.66,49,55,45,36.27,Low,Synthetic
+Marathahalli,Salon / Beauty Center,17546,22,158,74028,1.38,28,41,66,51.63,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,4565,12,201,52438,3.55,35,29,92,45.61,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,19021,14,181,85150,0.8,71,50,72,66.98,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,5415,23,126,55625,3.69,72,82,24,54.71,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,5551,17,169,90047,1.85,39,90,20,47.09,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,11399,6,117,61713,2.81,91,44,33,53.19,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,6180,41,49,49921,0.7,64,95,99,50.35,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,24243,36,16,32719,1.78,43,94,73,70.19,High,Synthetic
+Marathahalli,Salon / Beauty Center,19141,74,89,74751,1.71,89,77,70,57.77,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,6365,18,136,55372,0.31,96,54,68,57.22,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,15619,25,203,13919,0.72,24,43,61,60.11,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,22185,37,186,99381,2.53,36,33,63,57.09,Medium,Synthetic
+Marathahalli,Salon / Beauty Center,10189,8,128,42226,3.08,65,95,45,61.61,Medium,Synthetic
+Marathahalli,Electronics Store,4557,75,23,59700,2.15,22,52,48,32.65,Low,Synthetic
+Marathahalli,Electronics Store,10998,18,172,78046,0.76,66,29,94,52.42,Medium,Synthetic
+Marathahalli,Electronics Store,14478,47,104,45758,1.15,52,86,98,60.78,Medium,Synthetic
+Marathahalli,Electronics Store,6063,44,195,53335,3.65,34,28,75,38.61,Low,Synthetic
+Marathahalli,Electronics Store,12798,56,41,44747,0.15,28,87,91,49.54,Medium,Synthetic
+Marathahalli,Electronics Store,15085,33,96,30452,4.72,76,26,32,51.03,Medium,Synthetic
+Marathahalli,Electronics Store,12269,30,38,55147,2.81,45,74,21,38.3,Low,Synthetic
+Marathahalli,Electronics Store,14679,14,143,22985,0.2,100,85,31,80.39,High,Synthetic
+Marathahalli,Electronics Store,11919,59,46,46840,4.16,57,67,33,33.63,Low,Synthetic
+Marathahalli,Electronics Store,5669,23,135,56859,0.63,32,30,82,48.15,Medium,Synthetic
+Marathahalli,Electronics Store,21587,40,17,56732,3.46,53,84,76,55.66,Medium,Synthetic
+Marathahalli,Electronics Store,6477,22,96,84743,1.4,70,29,32,45.04,Medium,Synthetic
+Marathahalli,Electronics Store,7535,62,102,72695,3.83,57,61,87,32.53,Low,Synthetic
+Marathahalli,Electronics Store,9289,5,201,27025,1.77,34,97,72,74.19,High,Synthetic
+Marathahalli,Electronics Store,17268,9,249,97669,2.19,68,92,34,63.27,Medium,Synthetic
+Marathahalli,Electronics Store,6368,54,167,41203,0.92,96,31,27,50.96,Medium,Synthetic
+Marathahalli,Electronics Store,20759,74,20,40415,1.93,97,75,63,52.71,Medium,Synthetic
+Marathahalli,Electronics Store,7679,50,126,87024,2.35,48,75,83,41.78,Low,Synthetic
+Marathahalli,Electronics Store,6366,76,190,18764,4.89,32,76,77,31.46,Low,Synthetic
+Marathahalli,Electronics Store,20292,79,213,30800,2.24,53,94,36,44.15,Low,Synthetic
+Marathahalli,Electronics Store,9733,78,154,34072,3.33,20,37,46,37.25,Low,Synthetic
+Marathahalli,Electronics Store,21861,59,15,16960,3.03,42,34,70,51.77,Medium,Synthetic
+Marathahalli,Electronics Store,20979,42,228,12056,2.59,57,86,26,65.07,Medium,Synthetic
+Marathahalli,Electronics Store,12303,71,187,78483,3.58,38,33,80,43.18,Low,Synthetic
+Marathahalli,Electronics Store,7535,22,150,82153,4.92,49,32,40,36.14,Low,Synthetic

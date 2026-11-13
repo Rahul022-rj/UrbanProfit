@@ -1,0 +1,43 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit and other cache
+.cache/
+.streamlit/cache/
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+# Project cache
+cache/
+.cache/
+
+# Installed package snapshot (requirements.txt is sufficient)
+installed_packages.txt
+
+# Unused experimental models
+models/*.pkl
+
+# Cache
+cache/
+.cache/

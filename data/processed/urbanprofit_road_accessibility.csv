@@ -1,0 +1,9 @@
+locality,latitude,longitude,study_radius_km,area_sq_km,road_segment_count,total_road_length_km,intersection_count,road_density_km_per_sq_km,network_type,source,method
+Koramangala,12.9352,77.6245,3.0,28.228936414912997,8536,515.4187237563423,4944,18.258524380112775,drive,OpenStreetMap,OSMnx driving network within 3 km circular study area
+Jayanagar,12.925,77.5838,3.0,28.228936414912997,12311,755.5423810865419,7125,26.764819261394425,drive,OpenStreetMap,OSMnx driving network within 3 km circular study area
+HSR Layout,12.9116225,77.6388622,3.0,28.228936414912997,7940,532.4991853114431,4492,18.86359363614317,drive,OpenStreetMap,OSMnx driving network within 3 km circular study area
+Indiranagar,12.97329,77.64047,3.0,28.228936414912997,6676,413.1365519571945,3832,14.635214939906117,drive,OpenStreetMap,OSMnx driving network within 3 km circular study area
+Whitefield,12.97,77.715,3.0,28.228936414912997,4521,332.3544709814807,2454,11.773538545572052,drive,OpenStreetMap,OSMnx driving network within 3 km circular study area
+Electronic City,12.8399,77.677,3.0,28.228936414912997,4012,332.5290624835391,2178,11.779723387235665,drive,OpenStreetMap,OSMnx driving network within 3 km circular study area
+Marathahalli,12.95363,77.69759,3.0,28.228936414912997,5011,352.16849911942523,2708,12.475443422423064,drive,OpenStreetMap,OSMnx driving network within 3 km circular study area
+Malleshwaram,13.00274,77.57033,3.0,28.228936414912997,9467,594.117933573095,5475,21.046415806839605,drive,OpenStreetMap,OSMnx driving network within 3 km circular study area

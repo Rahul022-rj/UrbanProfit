@@ -1,0 +1,9 @@
+locality,latitude,longitude,study_radius_km,population,area_sq_km,population_density,population_year,population_source,source_doi,method
+Koramangala,12.9352,77.6245,3.0,260084.34,28.1949,9224.52,2025,"WorldPop Global2 R2025A, 100 m",10.5258/SOTON/WP00839,3 km radius circular study area
+Electronic City,12.8399,77.677,3.0,194878.03,28.1926,6912.39,2025,"WorldPop Global2 R2025A, 100 m",10.5258/SOTON/WP00839,3 km radius circular study area
+Jayanagar,12.925,77.5838,3.0,345398.62,28.1966,12249.64,2025,"WorldPop Global2 R2025A, 100 m",10.5258/SOTON/WP00839,3 km radius circular study area
+HSR Layout,12.9116225,77.6388622,3.0,255612.89,28.1943,9066.13,2025,"WorldPop Global2 R2025A, 100 m",10.5258/SOTON/WP00839,3 km radius circular study area
+Indiranagar,12.97329,77.64047,3.0,251652.04,28.1942,8925.66,2025,"WorldPop Global2 R2025A, 100 m",10.5258/SOTON/WP00839,3 km radius circular study area
+Whitefield,12.97,77.715,3.0,270213.13,28.191,9585.1,2025,"WorldPop Global2 R2025A, 100 m",10.5258/SOTON/WP00839,3 km radius circular study area
+Marathahalli,12.95363,77.69759,3.0,245842.27,28.1917,8720.37,2025,"WorldPop Global2 R2025A, 100 m",10.5258/SOTON/WP00839,3 km radius circular study area
+Malleshwaram,13.00274,77.57033,3.0,295123.07,28.1972,10466.38,2025,"WorldPop Global2 R2025A, 100 m",10.5258/SOTON/WP00839,3 km radius circular study area
