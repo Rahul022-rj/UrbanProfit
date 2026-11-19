@@ -1,0 +1,3 @@
+﻿element,osmid,name,business_category,amenity,shop,leisure,latitude,longitude,addr:street,addr:suburb,addr:city,source,collected_at_utc
+node,,Cafe Coffee Day,Cafe / Restaurant,cafe,,,12.9754961,77.6412437,100 Feet Road(S K Karim Khan Road),,,OpenStreetMap,2026-11-10T17:29:03.216098+00:00
+way,,Yogi-sthaan (Yoga House),Cafe / Restaurant,cafe,,,12.9810384,77.63841123560911,11th Cross Road,,Bangalore,OpenStreetMap,2026-11-10T17:29:03.216098+00:00

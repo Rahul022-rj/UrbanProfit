@@ -1,0 +1,166 @@
+element,osmid,name,business_category,amenity,shop,leisure,latitude,longitude,addr:street,addr:suburb,addr:city,source,area_collected,collected_at_utc
+node,,5 Centrigrade,Cafe / Restaurant,cafe,,,12.9598295,77.7475972,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sisley Outlet Clothes,Retail Shop,,clothes,,12.9593998,77.7482732,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Reebok,Retail Shop,,clothes,,12.9594702,77.7476973,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Subway,Cafe / Restaurant,fast_food,,,12.9598156,77.7483032,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Pantaloon,Retail Shop,,clothes,,12.9594754,77.7478958,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Lee,Retail Shop,,clothes,,12.9599378,77.7478941,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,MTR,Cafe / Restaurant,restaurant,,,12.9598156,77.7481385,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sony Centre,Electronics Store,,electronics,,12.9599834,77.7480636,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Cream n Desserts,Cafe / Restaurant,cafe,,,12.9599141,77.748448,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,McDonald's,Cafe / Restaurant,fast_food,,,12.9598101,77.748238,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Taj Express,Cafe / Restaurant,fast_food,,,12.9598302,77.7474647,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Liberty Silks,Retail Shop,,clothes,,12.9595311,77.7480711,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Espirit,Retail Shop,,clothes,,12.9595384,77.7482657,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Ala Dakshinapuramlo,Cafe / Restaurant,restaurant,,,12.9598316,77.7473381,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Blackberrys,Retail Shop,,clothes,,12.9594016,77.7484054,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Toni & Guy,Salon / Beauty Center,,hairdresser,,12.9595311,77.7473898,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Rajdhani Snacklet,Cafe / Restaurant,fast_food,,,12.9598156,77.7485602,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,The Time Factory,Retail Shop,,clothes,,12.9595384,77.7485203,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Beijing Bites,Cafe / Restaurant,fast_food,,,12.9598375,77.7476967,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Pind Balluchi,Cafe / Restaurant,restaurant,,,12.9598229,77.7479363,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,KFC,Cafe / Restaurant,fast_food,,,12.9596115,77.7473085,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,GoPizza,Cafe / Restaurant,fast_food,,,12.9598068,77.7484572,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Calvin Klein,Retail Shop,,clothes,,12.959465,77.7474184,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Pepe Jeans,Retail Shop,,clothes,,12.9594578,77.747309,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Puma,Retail Shop,,clothes,,12.9594131,77.7483032,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Jute Cottage,Retail Shop,,clothes,,12.9594081,77.7483956,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Mega Mart,Retail Shop,,clothes,,12.9593994,77.748519,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Rattrap,Retail Shop,,clothes,,12.9595419,77.748401,,,"Whitefield, Bangalore",OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Peter England,Retail Shop,,clothes,,12.9597218,77.7478598,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Vivah,Retail Shop,,clothes,,12.9596342,77.7485167,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Neeru’S Fashion,Retail Shop,,clothes,,12.9597218,77.7475981,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Stanza,Retail Shop,,clothes,,12.9596244,77.7484878,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Bulchee,Retail Shop,,clothes,,12.9597243,77.747947,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Levi's,Retail Shop,,clothes,,12.9595225,77.7472977,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Tommy Hilfiger,Retail Shop,,clothes,,12.9594565,77.7482378,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Kalmane Koffee,Cafe / Restaurant,cafe,,,12.9597243,77.7484523,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Zaari,Retail Shop,,clothes,,12.9597318,77.7480573,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,United Colors of Benetton,Retail Shop,,clothes,,12.9594153,77.7483382,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Toscano's,Cafe / Restaurant,restaurant,,,12.9598943,77.7481291,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Van Heusen,Retail Shop,,clothes,,12.9597343,77.7481599,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Alen Solly,Retail Shop,,clothes,,12.9597243,77.748301,Forum Value Mall,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Pushpa Medicals,Pharmacy,pharmacy,,,12.9688745,77.7496287,Whitefield Main Road,,Bangalore,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Domino's,Cafe / Restaurant,fast_food,,,12.957157,77.7386411,Varthur Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,The Fat Chef,Cafe / Restaurant,restaurant,,,12.9575682,77.7409586,Varthur Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Cafe Coffee Day,Cafe / Restaurant,cafe,,,12.9639,77.7485355,Whitefield Main Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Bhagini Park,Cafe / Restaurant,restaurant,,,12.963214,77.7483421,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Saffron Patch,Cafe / Restaurant,restaurant,,,12.9564558,77.7427026,Varthur Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Mayuri Bar And Restaurant,Cafe / Restaurant,restaurant,,,12.9700266,77.7497775,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Shri Lakshmi Vaibhava,Cafe / Restaurant,restaurant,,,12.9692871,77.7496864,Whitefield Main Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Kolkata's,Cafe / Restaurant,restaurant,,,12.963978,77.7487116,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Apollo Pharmacy,Pharmacy,pharmacy,,,12.9698357,77.7497385,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Medi House Pharma,Pharmacy,pharmacy,,,12.9636019,77.7481495,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,National Pharma,Pharmacy,pharmacy,,,12.9683188,77.7494966,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,S V Sushma Hair Dressers,Salon / Beauty Center,,hairdresser,,12.9697265,77.7503942,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Cafe Bel Cibo @ Patio,Cafe / Restaurant,restaurant,,,12.9572347,77.7331316,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Aaina Womens' Salon,Salon / Beauty Center,,hairdresser,,12.9686891,77.7480338,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,,Retail Shop,,supermarket,,12.961125,77.7410111,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Five Star Chicken,Cafe / Restaurant,fast_food,,,12.9700711,77.7497969,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Bliss Chocolate Lounge,Cafe / Restaurant,cafe,,,12.9596154,77.7475746,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Best Little Hair House,Salon / Beauty Center,,hairdresser,,12.9696972,77.7489967,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,,Cafe / Restaurant,fast_food,,,12.9718615,77.7485791,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Bodycraft,Salon / Beauty Center,,beauty,,12.9586331,77.7464693,Whitefield Main Road,,"Whitefield, Bangalore",OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Bangalore Mandarin,Cafe / Restaurant,restaurant,,,12.9700883,77.7502482,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Vignesh Medicals,Pharmacy,pharmacy,,,12.957136,77.7392761,"Shop No 5 Varthur Main Road, Ramagondanahalli, Whitefield, Karnataka",,Bengaluru,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Salt Mango Tree,Cafe / Restaurant,restaurant,,,12.9598095,77.7483757,"The Oasis Club, Prestige Ozone, Whitefield Main Road",,Bengaluru,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Gold's Gym,Gym / Fitness Center,,,fitness_centre,12.9721912,77.7506113,Whitefield Main Road,,Bangalore,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Loyal World Market,Retail Shop,,supermarket,,12.9595912,77.7474103,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Top in Town,Retail Shop,,supermarket,,12.9690444,77.7388659,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Chin Chin,Cafe / Restaurant,restaurant,,,12.9629499,77.7507243,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,cult.fit,Gym / Fitness Center,,,fitness_centre,12.9684831,77.7493378,Whitefield Main Road,,Bangalore,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Domino's,Cafe / Restaurant,fast_food,,,12.9684845,77.7495279,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sowparnika Bakery And Sweets,Cafe / Restaurant,fast_food,,,12.9691244,77.7377783,Borewell Road,,Bangalore,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Roots,Salon / Beauty Center,,hairdresser,,12.9690681,77.7401642,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Signature Fitness,Gym / Fitness Center,,,fitness_centre,12.9687069,77.7495436,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Daily Sushi,Cafe / Restaurant,restaurant,,,12.9569722,77.7320574,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Cream Stone,Cafe / Restaurant,fast_food,,,12.9567489,77.7320044,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Nature's Basket,Retail Shop,,supermarket,,12.9566826,77.7319037,Varthur Road,,Bengaluru,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Toscano - Wine collection,Cafe / Restaurant,restaurant,,,12.9564838,77.7317386,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,The Farmhouse Kitchen & Bakery,Cafe / Restaurant,restaurant,,,12.957453,77.732905,Varthur Road,,Bengaluru,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sorse,Cafe / Restaurant,restaurant,,,12.9587668,77.7466114,Whitefield Main Road,,"Whitefield, Bangalore",OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Udupi Adithya,Cafe / Restaurant,restaurant,,,12.9617854,77.7479183,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Paradise,Cafe / Restaurant,restaurant,,,12.9578019,77.7454789,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Barbeque Nation,Cafe / Restaurant,restaurant,,,12.9577393,77.7454721,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Mitti Cafe,Cafe / Restaurant,cafe,,,12.9595145,77.7483651,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Gloria Jean's,Cafe / Restaurant,cafe,,,12.9596042,77.7478811,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Simpli Namdhari's,Retail Shop,,supermarket,,12.9728708,77.7505792,Whitefield Main Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Third Wave Coffee,Cafe / Restaurant,cafe,,,12.957308,77.7366851,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Cromā,Electronics Store,,electronics,,12.9567643,77.7323599,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Slay,Cafe / Restaurant,cafe,,,12.9567838,77.7326183,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Hyderabadi Biryani,Cafe / Restaurant,restaurant,,,12.9571764,77.7435018,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Orzuv,Cafe / Restaurant,restaurant,,,12.962909,77.7477379,Whitefield Main Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Loyal City Supermarket,Retail Shop,,supermarket,,12.960406,77.7422215,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,,Gym / Fitness Center,,,fitness_centre,12.9704236,77.7394331,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Madeena Restaurant,Cafe / Restaurant,restaurant,,,12.9685786,77.7479931,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Emperor,Cafe / Restaurant,restaurant,,,12.9690352,77.7496646,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,SNLS Mart,Retail Shop,,department_store,,12.9664737,77.7337604,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Herbs & Spices,Cafe / Restaurant,restaurant,,,12.9622752,77.7488416,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Habba Kadal Kashmiri Heritage Hub,Retail Shop,,clothes,,12.9720763,77.7493598,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Namma Ashram Cafe,Cafe / Restaurant,cafe,,,12.9600342,77.7325657,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Pizza Hut,Cafe / Restaurant,restaurant,,,12.9568336,77.7408114,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,MedPlus,Pharmacy,pharmacy,,,12.9571546,77.7388836,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,New Udupi Upahar,Cafe / Restaurant,restaurant,,,12.956801,77.7419198,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Ocean Cake,Cafe / Restaurant,fast_food,,,12.9568587,77.7411055,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Aroma Cafe,Cafe / Restaurant,fast_food,,,12.9694137,77.7480221,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sardarji's Kitchen,Cafe / Restaurant,fast_food,,,12.9694276,77.7477172,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Tarangini Multi-Cuisine Outdoor,Cafe / Restaurant,restaurant,,,12.9721009,77.7494234,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Habba Kadal Kashmiri Restaurant,Cafe / Restaurant,restaurant,,,12.9721976,77.7494321,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Ashwini Medical And General Store,Pharmacy,pharmacy,,,12.963561,77.7331668,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Navdurga Electricals,Electronics Store,,electronics,,12.9572071,77.7372155,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Gem Herbal Beauty Parlour,Salon / Beauty Center,,hairdresser,,12.9572061,77.7378459,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sai Ram Hot Chips,Cafe / Restaurant,fast_food,,,12.9571991,77.738507,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sri Viniyaka Mess,Cafe / Restaurant,cafe,,,12.9571606,77.7387642,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Naturals,Salon / Beauty Center,,beauty,,12.956638,77.7427947,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sri Ganesh Fruit Juice Center,Cafe / Restaurant,fast_food,,,12.9567667,77.7425694,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Style Touch Men's Salon,Salon / Beauty Center,,hairdresser,,12.956782,77.7425394,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Viniyaka Hot Chips,Cafe / Restaurant,fast_food,,,12.9568671,77.7392132,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sri Rama Electronics,Electronics Store,,electronics,,12.9568705,77.7391916,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sri Manjunatha Beauty Salon,Salon / Beauty Center,,hairdresser,,12.9568023,77.7415774,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,MCC,Cafe / Restaurant,restaurant,,,12.9568341,77.740717,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sparsh,Salon / Beauty Center,,hairdresser,,12.9571587,77.7389165,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,New Mens Beauty Saloon,Salon / Beauty Center,,hairdresser,,12.9571301,77.7393666,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,,Retail Shop,,clothes,,12.9571328,77.739402,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Udupi Upahar Veg,Cafe / Restaurant,restaurant,,,12.9568026,77.7423896,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Desi Cuisine,Cafe / Restaurant,cafe,,,12.9682577,77.749489,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Lemon Krust,Cafe / Restaurant,cafe,,,12.9683746,77.7494848,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,green trends,Salon / Beauty Center,,beauty,,12.9592975,77.7463342,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Original Burger Co.,Cafe / Restaurant,fast_food,,,12.9567925,77.7319108,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Stayfit,Gym / Fitness Center,,,fitness_centre,12.9572629,77.745105,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Dunkin',Cafe / Restaurant,fast_food,,,12.9598092,77.7473442,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Fitness First,Gym / Fitness Center,,,fitness_centre,12.9727815,77.7505842,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Street Chai,Cafe / Restaurant,cafe,,,12.9731349,77.7505326,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sama,Gym / Fitness Center,,,fitness_centre,12.9727073,77.7506077,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Udupi Vibhava,Cafe / Restaurant,restaurant,,,12.9656707,77.7491354,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Lassi Corner,Cafe / Restaurant,fast_food,,,12.9711899,77.7503329,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Bhangarpet Snacks Point,Cafe / Restaurant,fast_food,,,12.9710885,77.7503176,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,,Cafe / Restaurant,fast_food,,,12.9710748,77.7503726,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,MedPlus,Pharmacy,pharmacy,,,12.9710649,77.7504113,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Franke Faber,Electronics Store,,electronics,,12.9701354,77.7502963,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Sumiz Makeup Studio & Academy,Salon / Beauty Center,,beauty,,12.9700845,77.7502886,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Envy Aesthetics,Salon / Beauty Center,,beauty,,12.9700314,77.7502722,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Mothi Dauran,Cafe / Restaurant,fast_food,,,12.9697484,77.750104,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Smart Kids,Retail Shop,,clothes,,12.9694757,77.7500622,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,KNK Fashions,Retail Shop,,clothes,,12.9693994,77.7500408,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,,Retail Shop,,clothes,,12.9692821,77.7500384,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Kerala Home Kitchen,Cafe / Restaurant,restaurant,,,12.9692162,77.7501638,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,C8 Men's Wear,Retail Shop,,clothes,,12.9690089,77.7499794,Whitefield Main Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Jai Ambey Automobiles,Retail Shop,,clothes,,12.9686696,77.7499445,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,X Zone,Retail Shop,,clothes,,12.968608,77.7499376,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Kids Zone,Retail Shop,,clothes,,12.9685475,77.7499318,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Darjeeling Dotma Fast Food,Cafe / Restaurant,fast_food,,,12.9682653,77.749887,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Homoeo Pharma,Pharmacy,pharmacy,,,12.9690647,77.7500197,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Happins,Cafe / Restaurant,fast_food,,,12.9753446,77.7459687,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Starbucks,Cafe / Restaurant,cafe,,,12.9566975,77.7320865,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Salt,Cafe / Restaurant,restaurant,,,12.9564872,77.7317032,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Paris Panini,Cafe / Restaurant,restaurant,,,12.9568988,77.7319185,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,Chinita,Cafe / Restaurant,restaurant,,,12.9569352,77.7322928,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,The Pizza Bakery,Cafe / Restaurant,restaurant,,,12.9568536,77.7320074,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+node,,California Burrito,Cafe / Restaurant,restaurant,,,12.9566742,77.732012,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+way,,Reliance Fresh,Retail Shop,,supermarket,,12.97081715,77.75033176751002,Whitefield Main Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+way,,Shell Select,Retail Shop,,convenience,,12.956697649999999,77.73152250049773,Varthur Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+way,,Dress Circle,Retail Shop,,clothes,,12.96973055,77.74960739713359,Whitefield Main Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+way,,Top in Town Hypermarket,Retail Shop,,supermarket,,12.969171750000001,77.74165270460419,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+way,,Loyal City Hypermarket,Retail Shop,,supermarket,,12.9688345,77.75010875,Whitefield Main Road,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+way,,Akshar Power Yoga Academy,Gym / Fitness Center,,,fitness_centre,12.97180915,77.7494706557375,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00
+way,,KRS Yoga,Gym / Fitness Center,,,fitness_centre,12.9715352,77.74641405,,,,OpenStreetMap,"Whitefield, Bengaluru, India",2026-11-10T18:28:08.282988+00:00

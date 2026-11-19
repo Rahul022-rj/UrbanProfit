@@ -1,0 +1,15 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+plotly
+streamlit
+osmnx
+geopandas
+folium
+jupyter
+openpyxl
+joblib

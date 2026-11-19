@@ -1,0 +1,41 @@
+locality,listing_id,property_type,monthly_rent_inr,area_sqft,rent_per_sqft,source_url,source_name,listing_date,collection_date,notes
+Koramangala,KOR-001,Shop,60000,250,240.0,https://housing.com/commercial/rent/commercial-shop-for-rent-in-koramangala-bengaluru-MA4P5s2sntlyr4a7izpb,Housing.com,,2026-11-11,Preliminary asking-rent observation; verify listing availability and property details before final analysis.
+Koramangala,,,,,,,,,,Enter listing 2
+Koramangala,,,,,,,,,,Enter listing 3
+Koramangala,,,,,,,,,,Enter listing 4
+Koramangala,,,,,,,,,,Enter listing 5
+Electronic City,EC-001,Shop,16000,160,100.0,https://housing.com/commercial/rent/commercial-shop-for-rent-in-electronic-city-bengaluru-MA4P16rl894c0qkogx5,Housing.com,,2026-11-11,Preliminary asking-rent observation; verify listing availability and property details before final analysis.
+Electronic City,,,,,,,,,,Enter listing 2
+Electronic City,,,,,,,,,,Enter listing 3
+Electronic City,,,,,,,,,,Enter listing 4
+Electronic City,,,,,,,,,,Enter listing 5
+Jayanagar,JAY-001,Shop,30000,500,60.0,https://housing.com/commercial/rent/commercial-shop-for-rent-in-jayanagar-bengaluru-MA4P5vem1jmqfgn3h0vo,Housing.com,,2026-11-11,Preliminary asking-rent observation; verify listing availability and property details before final analysis.
+Jayanagar,,,,,,,,,,Enter listing 2
+Jayanagar,,,,,,,,,,Enter listing 3
+Jayanagar,,,,,,,,,,Enter listing 4
+Jayanagar,,,,,,,,,,Enter listing 5
+HSR Layout,HSR-001,Shop,40000,1100,36.36363636363637,https://housing.com/commercial/rent/commercial-shop-for-rent-in-hsr-layout-bengaluru-MA4P5kgp2umse63qjm62,Housing.com,,2026-11-11,Preliminary asking-rent observation; verify listing availability and property details before final analysis.
+HSR Layout,,,,,,,,,,Enter listing 2
+HSR Layout,,,,,,,,,,Enter listing 3
+HSR Layout,,,,,,,,,,Enter listing 4
+HSR Layout,,,,,,,,,,Enter listing 5
+Indiranagar,100478069,Shop,35000,600,58.333333333333336,https://housing.com/commercial/rent/100478069-shop-for-rent-in-indira-nagar-bangalore-for-rs-35000,Housing.com,2026-09-23,2026-11-11,Motappana Palya; built-up area 600 sqft; asking rent.
+Indiranagar,,,,,,,,,,Enter listing 2
+Indiranagar,,,,,,,,,,Enter listing 3
+Indiranagar,,,,,,,,,,Enter listing 4
+Indiranagar,,,,,,,,,,Enter listing 5
+Whitefield,WHI-001,Shop,20000,200,100.0,https://housing.com/commercial/rent/commercial-shop-for-rent-in-whitefield-bengaluru-MA4P4ie9y33s0tezykdb,Housing.com,,2026-11-11,Preliminary asking-rent observation; verify listing availability and property details before final analysis.
+Whitefield,,,,,,,,,,Enter listing 2
+Whitefield,,,,,,,,,,Enter listing 3
+Whitefield,,,,,,,,,,Enter listing 4
+Whitefield,,,,,,,,,,Enter listing 5
+Marathahalli,MAR-001,Shop,80000,1000,80.0,https://housing.com/commercial/rent/commercial-shop-for-rent-in-marathahalli-bengaluru-MA4P19pr5xnbnbzon4fz,Housing.com,,2026-11-11,Preliminary asking-rent observation; verify listing availability and property details before final analysis.
+Marathahalli,,,,,,,,,,Enter listing 2
+Marathahalli,,,,,,,,,,Enter listing 3
+Marathahalli,,,,,,,,,,Enter listing 4
+Marathahalli,,,,,,,,,,Enter listing 5
+Malleshwaram,MAL-001,Shop,40000,500,80.0,https://housing.com/commercial/rent/commercial-shop-for-rent-in-malleswaram-bengaluru-MA4P53twp7mtetscn6n9,Housing.com,,2026-11-11,Preliminary asking-rent observation; verify listing availability and property details before final analysis.
+Malleshwaram,,,,,,,,,,Enter listing 2
+Malleshwaram,,,,,,,,,,Enter listing 3
+Malleshwaram,,,,,,,,,,Enter listing 4
+Malleshwaram,,,,,,,,,,Enter listing 5
