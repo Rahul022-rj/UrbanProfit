@@ -1,4 +1,5 @@
 # UrbanProfit — Multi-City Market Intelligence Platform
+**Live Dashboard:** [Launch UrbanProfit Live App](https://urbanprofit.streamlit.app/)
 
 An interactive **Streamlit** geospatial market intelligence and location-screening platform built for entrepreneurs and small-business owners across **12 major Indian cities (63 localities)**.
 
